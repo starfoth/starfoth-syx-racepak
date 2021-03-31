@@ -33,6 +33,7 @@ PREFERRED: {
 		_LIBRARY: 1.0,
 		SER_CHAMBER_NORMAL: 1.0,
 		_COURT: 1.0,
+		_SLAVER: 1.0,
 	},
 },
 
@@ -172,18 +173,36 @@ CLIMATE: {
 
 STATS: {
 	SERVICE: {
-		EAT_TAVERN_NORMAL: {
-			NOBLE: 1,
-			SLAVE: 1,
-			CITIZEN: 1,
+		SER_DORM_NORMAL: {
+			NOBLE: 0.5,
+			SLAVE: 0.5,
+			CITIZEN: 0.5,
+		},
+		SER_FLAT_NORMAL: {
+			NOBLE: 1.5,
+			SLAVE: 3.5,
+			CITIZEN: 3.5,
+		},
+		SER_CHAMBER_NORMAL: {
+			NOBLE: 7.0,
+		},
+		HYGINE_BATH_NORMAL: {
+			NOBLE: 4.0,
+			SLAVE: 4.0,
+			CITIZEN: 4.0,
 		},
 	},
 	
 	EQUIPABLE: {
 		_CLOTHES: {
-			NOBLE: 2,
-			SLAVE: 1,
-			CITIZEN: 1,
+			NOBLE: 0.5,
+			SLAVE: 0.5,
+			CITIZEN: 0.5,
+		},
+		JEWELRY: {
+			NOBLE: 4.5,
+			SLAVE: 2.5,
+			CITIZEN: 2.5,
 		},
 	},
 	
@@ -223,14 +242,19 @@ STATS: {
 	ENVIRONMENT: {
 		CANNIBALISM: {
 		},
+		NOISE: {
+			CITIZEN: 0.3,
+			INVERTED: true,
+		},
 	},
 	
 	POPULATION: {
 		SLAVES-SELF: {
 			CITIZEN: 0.3,
+			NOBLE: 0.3,
 		},
 		SLAVES-OTHER: {
-			CITIZEN: 0.3,
+			NOBLE: 0.3,
 		},
 	
 		NOBLES: {
@@ -242,6 +266,9 @@ STATS: {
 		},
 		LAW: {
 			CITIZEN: 1,
+		},
+		IMMIGRANT: {
+			CITIZEN: 0.2,
 		},
 	},
 	
