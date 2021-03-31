@@ -39,6 +39,8 @@ PREFERRED: {
 
 BONUS: {
 	MISC: {
+		HAPPINESS: -0.1,
+		BATTLE_DEFENCE: 0.2,
 	},
 	ROOMS: {
 		WORKSHOP_JEWELRY: 0.6,
@@ -174,9 +176,9 @@ CLIMATE: {
 STATS: {
 	SERVICE: {
 		SER_DORM_NORMAL: {
-			NOBLE: 0.5,
-			SLAVE: 0.5,
-			CITIZEN: 0.5,
+			NOBLE: 1.0,
+			SLAVE: 3.5,
+			CITIZEN: 1.0,
 		},
 		SER_FLAT_NORMAL: {
 			NOBLE: 1.5,
@@ -272,9 +274,9 @@ STATS: {
 	
 	STORED: {
 		OPIATES: {
-			CITIZEN: 4,
+			CITIZEN: 2,
 			SLAVE: 0,
-			NOBLE: 4,
+			NOBLE: 2,
 			MULTIPLIER: 0.25,
 		},
 	},
