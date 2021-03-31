@@ -193,6 +193,16 @@ STATS: {
 			SLAVE: 4.0,
 			CITIZEN: 4.0,
 		},
+		SPIRIT_GRAVEYARD_NORMAL: {
+			NOBLE: 2.0,
+			SLAVE: 0.0,
+			CITIZEN: 0.0,
+		},
+		SPIRIT_GRAVEYARD_NORMAL: {
+			NOBLE: 4.0,
+			SLAVE: 0.0,
+			CITIZEN: 0.0,
+		},
 	},
 	
 	EQUIPABLE: {
