@@ -262,10 +262,7 @@ STATS: {
 			CITIZEN: 2.0,
 		},
 		MERCY: {
-			CITIZEN: 1,
-		},
-		LAW: {
-			CITIZEN: 1,
+			CITIZEN: 3,
 		},
 		IMMIGRANT: {
 			CITIZEN: 0.2,
