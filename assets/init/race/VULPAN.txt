@@ -271,10 +271,10 @@ STATS: {
 	
 	STORED: {
 		OPIATES: {
-			CITIZEN: 1,
+			CITIZEN: 4,
 			SLAVE: 0,
-			NOBLE: 1,
-			MULTIPLIER: 0.5,
+			NOBLE: 4,
+			MULTIPLIER: 0.25,
 		},
 	},
 	
