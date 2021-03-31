@@ -250,11 +250,12 @@ STATS: {
 	
 	POPULATION: {
 		SLAVES-SELF: {
-			CITIZEN: 0.3,
-			NOBLE: 0.3,
+			CITIZEN: 1.0,
+			NOBLE: 1.0,
 		},
 		SLAVES-OTHER: {
-			NOBLE: 0.3,
+			CITIZEN: 1.0,
+			NOBLE: 1.0,
 		},
 	
 		NOBLES: {
