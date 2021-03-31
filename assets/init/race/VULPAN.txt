@@ -53,10 +53,10 @@ BONUS: {
 },
 
 TRAITS: {
-	FIGHTER: 0.6,
-	GLUTTON: 0.0,
+	FIGHTER: 0.0,
+	GLUTTON: 0.6,
 	SLEEPER: 1.0,
-	SPRINTER: 0.6,
+	SPRINTER: 0.0,
 },
 
 RESOURCE: {
@@ -231,12 +231,18 @@ STATS: {
 	},
 	
 	FOOD: {
-		DRINK_RATIONS: {
-			CITIZEN: 1,
-			SLAVE: 1,
-			NOBLE: 1,
+		FOOD_RATIONS: {
+			CITIZEN: 3,
+			SLAVE: 3,
+			NOBLE: 3,
+			MULTIPLIER: 0.75,
 		},
-	
+		DRINK_RATIONS: {
+			CITIZEN: 2.5,
+			SLAVE: 2.5,
+			NOBLE: 2.5,
+			MULTIPLIER: 0.75,
+		},
 	},
 	
 	BATTLE: {
