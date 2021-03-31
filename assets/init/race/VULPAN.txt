@@ -254,10 +254,12 @@ STATS: {
 		SLAVES-SELF: {
 			CITIZEN: 1.0,
 			NOBLE: 1.0,
+			MULTIPLIER: 3,
 		},
 		SLAVES-OTHER: {
 			CITIZEN: 1.0,
 			NOBLE: 1.0,
+			MULTIPLIER: 3,
 		},
 	
 		NOBLES: {
