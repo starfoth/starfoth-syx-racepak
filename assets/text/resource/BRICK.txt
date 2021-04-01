@@ -1,0 +1,3 @@
+NAME: "Brick",
+NAMES: "Bricks",
+DESC: "Bricks are a clay building material",

@@ -1,0 +1,37 @@
+INFO: {
+	NAME: "Brickworks",
+	NAMES: "Brickworks",
+	DESC: "workshop that makes Bricks from clay.",
+},
+
+BONUS: {
+	NAME: "Brickmaking",
+	DESC: "Increases effectiveness of Brickworks",
+},
+
+WORK: {
+	TITLE: "Brickmaker",
+	VERB: "Making Bricks",
+},
+
+STATS: [
+	{
+		NAME: "Workers",
+		DESC: "The amount of workers",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "Efficiency increases production",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Work Bench",
+		DESC: "Where subjects work",
+	},
+	{
+		NAME: "Auxiliary Station",
+		DESC: "Adds Efficiency to the room",
+	},
+],

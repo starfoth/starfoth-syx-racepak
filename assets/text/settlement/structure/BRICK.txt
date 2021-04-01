@@ -1,0 +1,13 @@
+INFO: {
+	NAME: "Brick Building",
+	NAMES: "Brick Buildings",
+	DESC: "A good and durable structure made of bricks",
+},
+
+BONUS: {
+	NAME: "Brick Structure Construction",
+	DESC: "Decreases construction time of Brick Structures",
+},
+
+NAME_WALL: "Brick Wall",
+NAME_CEILING: "Brick Tile Ceiling",
