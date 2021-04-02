@@ -27,11 +27,11 @@ STATS: [
 
 ITEMS: [
 	{
-		NAME: "Work Bench",
+		NAME: "Kiln",
 		DESC: "Where subjects work",
 	},
 	{
-		NAME: "Auxiliary Station",
+		NAME: "Work Bench",
 		DESC: "Adds Efficiency to the room",
 	},
 ],
