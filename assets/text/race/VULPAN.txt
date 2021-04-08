@@ -13,7 +13,7 @@ Additionally, their decadent society loves to make pastries such as cakes or pie
 %r%%r%
 Their favorite foods are breads and fruit",
 
-FIRST_NAMES: StdFirst,
-SURNAMES: StdLast,
-FIRST_NAMES_NOBLE: StdFirstNoble,
-SURNAMES_NOBLE: StdLastNoble,
+FIRST_NAMES: VlpFirst,
+SURNAMES: VlpLast,
+FIRST_NAMES_NOBLE: VlpFirstNoble,
+SURNAMES_NOBLE: VlpLastNoble,
