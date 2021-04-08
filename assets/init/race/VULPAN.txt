@@ -12,16 +12,14 @@ PREFERRED: {
 	FOOD: [
 		FRUIT,
 		BREAD,
-		###PIE,
+		MEAT,
 	],
 	STRUCTURE: {
-		###CLAY: 1.0,
+		BRICK: 1.0,
 		GRAND: 1.0,
 		MOUNTAIN: 1.0,
 	},
 	WORK: {
-		FARM_CACTUS: 1.0,
-		FARM_FRUIT: 1.0,
 		FARM_SPICES: 1.0,
 		EAT_EATERY_NORMAL: 1.0,
 		EAT_CANTEEN_NORMAL: 1.0,
@@ -29,11 +27,13 @@ PREFERRED: {
 		HYGINE_BATH_NORMAL: 1.0,
 		MINE_CLAY: 1.0,
 		WORKSHOP_POTTERY: 1.0,
-		###WORKSHOP_BRICK: 1.0,
+		REFINERY_BRICK: 1.0,
 		_LIBRARY: 1.0,
 		SER_CHAMBER_NORMAL: 1.0,
 		_COURT: 1.0,
 		_SLAVER: 1.0,
+		_GUARD: 1.0,
+		_PRISON: 1.0,
 	},
 },
 
@@ -46,7 +46,7 @@ BONUS: {
 		WORKSHOP_JEWELRY: 0.6,
 		MINE_CLAY: 0.4,
 		WORKSHOP_POTTERY: 0.4,
-		###WORKSHOP_BRICK: 0.2,
+		REFINERY_BRICK: 0.2,
 		_LIBRARY: 0.2,
 		FARM_SPICES: 0.4,
 	},
@@ -64,63 +64,63 @@ RESOURCE: {
 	COTTON: 10,
 },
 
-APPEARANCE: { #NEEDS MASSIVE REWORK#
+APPEARANCE: {
 	SPRITE: vulpan,
 	SPRITE_EXTRA: Normal,
 	BALD_RATE: 0.0,
-	BEARD_RATE: 1.0,
+	BEARD_RATE: 0.0,
 	TURNS_GRAY: false,
 	EARS_OFF: 0,
-	EYES_OFF: -4,
-	EYEBROW_OFF: -4,
-	NOSE_OFF: 0,
-	MOUTH_OFF: -2,
+	EYES_OFF: -2,
+	EYEBROW_OFF: 0,
+	NOSE_OFF: 4,
+	MOUTH_OFF: -3,
 	BEARD1_OFF: 0,
 	BEARD2_OFF: 0,
-	HAIR_OFF: 0,
+	HAIR_OFF: -7,
 	COLORS: {
 		SKIN: [
-			{R: 224, G: 128, B: 109,},
-			{R: 226, G: 128, B: 109,},
-			{R: 220, G: 128, B: 109,},
-			{R: 215, G: 128, B: 109,},
+			{R: 255, G: 255, B: 255,},
+			{R: 235, G: 235, B: 235,},
+			{R: 215, G: 215, B: 215,},
+			{R: 195, G: 195, B: 195,},
 			
-			{R: 224, G: 120, B: 109,},
-			{R: 224, G: 134, B: 109,},
-			{R: 224, G: 138, B: 109,},
-			{R: 224, G: 110, B: 109,},
+			{R: 255, G: 255, B: 255,},
+			{R: 235, G: 235, B: 235,},
+			{R: 215, G: 215, B: 215,},
+			{R: 195, G: 195, B: 195,},
 			
-			{R: 224, G: 128, B: 100,},
-			{R: 224, G: 128, B: 95,},
-			{R: 224, G: 128, B: 112,},
-			{R: 224, G: 128, B: 115,},
+			{R: 255, G: 255, B: 255,},
+			{R: 235, G: 235, B: 235,},
+			{R: 215, G: 215, B: 215,},
+			{R: 195, G: 195, B: 195,},
 			
-			{R: 222, G: 122, B: 101,},
-			{R: 224, G: 128, B: 102,},
-			{R: 228, G: 127, B: 103,},
-			{R: 224, G: 128, B: 104,},
+			{R: 255, G: 255, B: 255,},
+			{R: 235, G: 235, B: 235,},
+			{R: 215, G: 215, B: 215,},
+			{R: 195, G: 195, B: 195,},
 		],
 		HAIR: [
-			{R: 173, G: 50, B: 50,},
-			{R: 176, G: 50, B: 50,},
-			{R: 178, G: 50, B: 50,},
-			{R: 170, G: 50, B: 50,},
+			{R: 255, G: 255, B: 255,},
+			{R: 235, G: 235, B: 235,},
+			{R: 215, G: 215, B: 215,},
+			{R: 195, G: 195, B: 195,},
 		],
 		CLOTHES: [
-			{R: 114, G: 101, B: 35,},
-			{R: 142, G: 126, B: 44,},
-			{R: 83, G: 181, B: 94,},
-			{R: 62, G: 135, B: 70,},
-			{R: 105, G: 125, B: 239,},
-			{R: 79, G: 94, B: 181,},
-			{R: 53, G: 64, B: 122,},
-			{R: 193, G: 77, B: 0,},
+			{R: 255, G: 255, B: 255,},
+			{R: 235, G: 235, B: 235,},
+			{R: 215, G: 215, B: 215,},
+			{R: 195, G: 195, B: 195,},
+			{R: 255, G: 255, B: 255,},
+			{R: 235, G: 235, B: 235,},
+			{R: 215, G: 215, B: 215,},
+			{R: 195, G: 195, B: 195,},
 		],
 		ARMOUR: [
-			{R: 107, G: 79, B: 65,},
-			{R: 99, G: 99, B: 99,},
-			{R: 168, G: 168, B: 180,},
-			{R: 209, G: 159, B: 54,},
+			{R: 255, G: 255, B: 255,},
+			{R: 235, G: 235, B: 235,},
+			{R: 215, G: 215, B: 215,},
+			{R: 195, G: 195, B: 195,},
 		],
 		
 		EYE: [
@@ -148,7 +148,7 @@ APPEARANCE: { #NEEDS MASSIVE REWORK#
 	
 
 },
-#NEEDS NAME SCRIPT#
+
 FIRST_NAMES: VlpFirst,
 SURNAMES: VlpLast,
 FIRST_NAMES_NOBLE: VlpFirstNoble,
@@ -157,6 +157,7 @@ SURNAMES_NOBLE: VlpLastNoble,
 
 
 PROPERTIES: {
+	DEFENSE_SKILL: 0.2,
 	RESISTANCE_HOT: 2.0,
 	SKINNY_DIPS: 1.0,
 	INTELLIGENCE: 0.8,
@@ -165,6 +166,10 @@ PROPERTIES: {
 	SUBMISSION: 3.0,
 	STAMINA: 1.0,
 	STRENGTH: 0.3,
+	THIRST_RATE: 0.075,
+	CANNIBALIZE_TENDENCY: 0.15,
+	MOURNING_RATE: 1.0,
+	OLD_AT: 0.85,
 },
 
 CLIMATE: {
@@ -193,16 +198,6 @@ STATS: {
 			SLAVE: 4.0,
 			CITIZEN: 4.0,
 		},
-		SPIRIT_GRAVEYARD_NORMAL: {
-			NOBLE: 2.0,
-			SLAVE: 0.0,
-			CITIZEN: 0.0,
-		},
-		SPIRIT_GRAVEYARD_NORMAL: {
-			NOBLE: 4.0,
-			SLAVE: 0.0,
-			CITIZEN: 0.0,
-		},
 	},
 	
 	EQUIPABLE: {
@@ -227,6 +222,16 @@ STATS: {
 	},
 	
 	DEATH: {
+		SPIRIT_GRAVEYARD_NORMAL: {
+			NOBLE: 2.0,
+			SLAVE: 0.0,
+			CITIZEN: 0.0,
+		},
+		SPIRIT_TOMB_NORMAL: {
+			NOBLE: 4.0,
+			SLAVE: 0.0,
+			CITIZEN: 0.0,
+		},
 	
 	},
 	
