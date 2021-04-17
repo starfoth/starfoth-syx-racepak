@@ -1,9 +1,10 @@
 BONUS: {
 	ROOM: {
-		BUILD: 0.25,
+
 	},
 	MISC: {
 		DECREASE_DEGRADE_RATE: 0.2,
+		BUILD: 0.25,
 	},
 },
 COLOR: [80,50,50,],

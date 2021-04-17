@@ -1,9 +1,9 @@
 BONUS: {
 	ROOM: {
 		WORKSHOP_PAPER: 0.1,
-		WORKSHOP_JEWELRY: 0.25,
 	},
 	MISC: {
+		HAPPINESS: 0.1,
 	},
 },
 COLOR: [80,10,10,],

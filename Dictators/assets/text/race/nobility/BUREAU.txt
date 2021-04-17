@@ -1,4 +1,4 @@
 INFO: {
 	NAME: "CFO",
-	DESC: "The Chief Financial Officer is a bureaucrat responsible for making sure the site's finances are running smoothly and is in charge of bankers",
+	DESC: "The Chief Financial Officer is a Bureaucrat responsible for making sure the site's finances are running smoothly and is in charge of bankers",
 },

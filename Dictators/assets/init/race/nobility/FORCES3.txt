@@ -3,7 +3,7 @@ BONUS: {
 
 	},
 	MISC: {
-		BATTLE_OFFENSE: 0.25,
+		BATTLE_DAMAGE: 0.25,
 	},
 },
 COLOR: [80,50,50,],

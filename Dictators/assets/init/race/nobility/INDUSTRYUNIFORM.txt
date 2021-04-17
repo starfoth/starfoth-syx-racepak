@@ -1,11 +1,11 @@
 BONUS: {
 	ROOM: {
-
-	},
-	MISC: {
 		WORKSHOP_TAILOR: 0.25,
 		WORKSHOP_TAILOR_LEATHER: 0.25,
 		INDUSTRY_WEAVER: 0.25,
+	},
+	MISC: {
+		
 	},
 },
 COLOR: [80,80,10,],

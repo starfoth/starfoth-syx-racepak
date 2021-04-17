@@ -1,4 +1,4 @@
 INFO: {
 	NAME: "Ration Warrant Officer",
-	DESC: "The Ration Warrant Officer is a ration officer in charge of ration direction",
+	DESC: "The Ration Warrant Officer is a Ration Officer in charge of ration direction",
 },

@@ -1,10 +1,9 @@
 BONUS: {
 	ROOM: {
 		INDUSTRY_BAKERY: 0.25,
-		EAT_EATERY_NORMAL: 0.25,
 	},
 	MISC: {
-		FARM: 0.1,
+		FARM: 0.15,
 	},
 },
 COLOR: [80,60,5,],
