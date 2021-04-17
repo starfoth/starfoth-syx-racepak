@@ -1,0 +1,11 @@
+BONUS: {
+	ROOM: {
+		WORKSHOP_WEAPON: 0.25,
+		WORKSHOP_TOOL: 0.25,
+	},
+	MISC: {
+
+	},
+},
+COLOR: [80,80,10,],
+

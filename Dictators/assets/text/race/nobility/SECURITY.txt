@@ -1,0 +1,4 @@
+INFO: {
+	NAME: "Military Police Marshall",
+	DESC: "The Military Police Marshall is an MP Officer that is in charge of making sure the base is kept secure and the Military Police are doing their jobs PROPERLY",
+},

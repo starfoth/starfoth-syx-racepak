@@ -1,0 +1,7 @@
+VERSION: "1",
+GAME_VERSION_MAJOR: 57,
+GAME_VERSION_MINOR: 23,
+NAME: "Dictatorship",
+DESC: "Adds a military government alternative to the feudal society typical of the medieval ages. Many different executives and officers to appoint and different titles and bonuses",
+AUTHOR: "Starfoth",
+INFO: "Many more nobles, different flavor, different title bonuses", 

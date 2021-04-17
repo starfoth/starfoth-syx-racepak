@@ -1,0 +1,3 @@
+MALE: "Dictator",
+FEMALE: "Dictator",
+DESC: "Everyone in the Syx shivers at your incredible might. Your bureaucracy is irridescent, your decrees are absolute. You lead your vast armies from behind a desk and with a swish of your pen can lay waste to cities, conquer regions, and condemn anyone in the Syx to a swift death.",

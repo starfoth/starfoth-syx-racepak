@@ -1,0 +1,3 @@
+MALE: "Officer",
+FEMALE: "Officer",
+DESC: "The locals recognize you as a proper officer and leader, having proven your capability to lead them",

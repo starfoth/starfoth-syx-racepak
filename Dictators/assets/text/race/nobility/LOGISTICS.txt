@@ -1,0 +1,4 @@
+INFO: {
+	NAME: "Logistics Chief",
+	DESC: "The Logistics Chief is a Logistics Officer that is in charge of making sure logistics in the complex run smoothly and all supply lines are kept in check",
+},

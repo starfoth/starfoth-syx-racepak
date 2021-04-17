@@ -1,0 +1,3 @@
+MALE: "Master Sargeant",
+FEMALE: "Master Sargeant",
+DESC: "Promoted by yourself, you can now call yourself Master Sargeant",

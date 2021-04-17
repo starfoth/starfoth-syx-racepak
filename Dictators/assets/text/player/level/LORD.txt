@@ -1,0 +1,3 @@
+MALE: "Site Director",
+FEMALE: "Site Director",
+DESC: "You are now powerful enough to declare yourself as the Site Director of your capital-complex and press your influence into the surrounding region",

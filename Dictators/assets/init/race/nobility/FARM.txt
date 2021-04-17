@@ -1,0 +1,13 @@
+BONUS: {
+	ROOM: {
+		EAT_CANTEEN_NORMAL: 0.25,
+		EAT_TAVERN_NORMAL: 0.25,
+	},
+	MISC: {
+		FARM: 0.05,
+		PASTURE: 0.1,
+		FISHING: 0.1,
+	},
+},
+COLOR: [80,60,5,],
+

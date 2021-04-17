@@ -1,0 +1,4 @@
+INFO: {
+	NAME: "Scriptorium Archivist",
+	DESC: "The Scriptorium Archivist is a bureaucrat responsible for making sure everything is properly documented and filed away",
+},

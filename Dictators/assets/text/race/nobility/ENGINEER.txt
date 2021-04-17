@@ -1,0 +1,4 @@
+INFO: {
+	NAME: "Chief Engineer",
+	DESC: "The Chief Engineer is an engineering director responsible for ensuring construction in the complex runs smoothly",
+},

@@ -1,0 +1,4 @@
+INFO: {
+	NAME: "Commissar",
+	DESC: "The Commissar is a Drill Sargeant responsible for keeping soldiers in line and making sure they fear the consequences of retreat more than death",
+},

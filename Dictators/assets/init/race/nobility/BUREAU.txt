@@ -1,0 +1,11 @@
+BONUS: {
+	ROOM: {
+		WORKSHOP_PAPER: 0.1,
+		_LIBRARY: 0.05,
+		WORKSHOP_JEWELRY: 0.1,
+	},
+	MISC: {
+	},
+},
+COLOR: [80,10,10,],
+

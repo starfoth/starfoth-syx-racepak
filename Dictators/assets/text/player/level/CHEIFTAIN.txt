@@ -1,0 +1,3 @@
+MALE: "General",
+FEMALE: "General",
+DESC: "Your power has been solidified firmly in your home region, most people in the area know about and fear you, but you lack the manpower neccessary to press them into service",

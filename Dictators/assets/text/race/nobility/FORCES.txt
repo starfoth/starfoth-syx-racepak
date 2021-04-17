@@ -1,0 +1,4 @@
+INFO: {
+	NAME: "Drill Instructor",
+	DESC: "The Drill Instructor is a Drill Sargeant responsible for ensuring soldiers are disciplined",
+},

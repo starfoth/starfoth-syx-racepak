@@ -1,0 +1,3 @@
+MALE: "Minor Dictator",
+FEMALE: "Minor Dictator",
+DESC: "You are now a proper Dictator. All tremble before your might and the ground quakes where you walk. Your legions are expanding and nothing can stop you, there is nothing that strong",

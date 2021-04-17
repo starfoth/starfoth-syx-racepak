@@ -1,0 +1,10 @@
+BONUS: {
+	ROOM: {
+		_STOCKPILE: 2,
+	},
+	MISC: {
+		DECREASE_DEGRADE_RATE: 0.2,
+	},
+},
+COLOR: [80,50,50,],
+

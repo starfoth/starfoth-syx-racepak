@@ -1,0 +1,3 @@
+MALE: "Commissar",
+FEMALE: "Commissar",
+DESC: "Your rule is now firmly solidifed and the loyalest backbone of your camp following is now willing to carry out orders and execute disloyal elements within' your town.",

@@ -1,0 +1,4 @@
+INFO: {
+	NAME: "Head Chef",
+	DESC: "The Head Chef is a ration officer is responsible for ensuring high quality meals are made for the entire site",
+},
