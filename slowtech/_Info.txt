@@ -1,0 +1,7 @@
+VERSION: "1",
+GAME_VERSION_MAJOR: 57,
+GAME_VERSION_MINOR: 23,
+NAME: "SlowTech",
+DESC: "Slow but sure technology. Minimal degredation but takes ages to research and many scholars and paper to print.",
+AUTHOR: "Starfoth",
+INFO: "-90% degredation, -70% production, +900% paper cost, +500% storage", 

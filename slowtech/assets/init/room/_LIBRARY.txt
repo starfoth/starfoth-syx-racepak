@@ -1,0 +1,36 @@
+RESOURCES: [WOOD,FURNITURE,FABRIC,],
+AREA_COSTS: [0.25,0,0,],
+FLOOR: WOOD,
+MINI_COLOR: [134,184,184,],
+DEGRADE_PER_YEAR: 0.1,
+KNOWLEDGE_AMOUNT: 500,
+BOOST_RESOURCE: PAPER,
+
+WORK: {
+	SHIFT_OFFSET: 0.375,
+	SOUND: LIBRARY,
+	USES_TOOL: true,
+	FULFILLMENT: 1.0,
+},
+
+ITEMS: [
+	{
+		COSTS: [1,1,0,],
+		STATS: [0.3,0,],
+	},
+	{
+		COSTS: [1,1,0,],
+		STATS: [0,0.125,],
+	},
+	{
+		COSTS: [0,0,1,],
+		STATS: [0,0.0625,],
+	},
+],
+
+INDUSTRY: {
+	IN: {
+		PAPER: 1.0,
+	},
+},
+
