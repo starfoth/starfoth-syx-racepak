@@ -11,8 +11,9 @@ PHYSICS: {
 PREFERRED: {
 	FOOD: [
 		FRUIT,
+		VEGETABLE,
 		BREAD,
-		MEAT,
+		CAKE,
 	],
 	STRUCTURE: {
 		BRICK: 1.0,

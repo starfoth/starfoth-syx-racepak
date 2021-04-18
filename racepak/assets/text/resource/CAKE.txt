@@ -1,0 +1,3 @@
+NAME: "Cake",
+NAMES: "Tasty Cakes",
+DESC: "Cakes are a delicious treat resistant to degredation but hard to produce, made by artisan bakeries",

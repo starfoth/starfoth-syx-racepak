@@ -1,0 +1,36 @@
+TYPE: REFINER,
+RESOURCES: [WOOD,BRICK,],
+AREA_COSTS: [0,0.2,],
+FLOOR: BRICK,
+MINI_COLOR: [185,38,38,],
+
+ITEMS: [
+	{
+		COSTS: [0,3,],
+		STATS: [2,0,],
+	},
+	{
+		COSTS: [1,2,],
+		STATS: [0,0.5,],
+	},
+],
+
+
+WORK: {
+	SHIFT_OFFSET: 0.125,
+	SOUND: MACHINE,
+	USES_TOOL: true,
+	FULFILLMENT: 0.2,
+},
+
+INDUSTRY: {
+	IN: {
+		GRAIN: 7.5,
+		FRUIT: 3.0,
+		EGG: 1.5,
+		COAL: 2.0,
+	},
+	OUT: {
+		CAKE: 12,
+	},
+},

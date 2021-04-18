@@ -1,0 +1,38 @@
+INFO: {
+	NAME: "Artisan Bakery",
+	NAMES: "Artisan Bakeries",
+	DESC: "Refiner that turns grain, egg, and fruit into cakes.",
+},
+
+BONUS: {
+	NAME: "Cake Baking",
+	DESC: "Increases effectiveness of artisan bakeries",
+},
+
+WORK: {
+	TITLE: "Pastry Baker",
+	VERB: "Baking a cake",
+},
+
+STATS: [
+	{
+		NAME: "Workers",
+		DESC: "The amount of workers",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "Efficiency increases production",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Oven",
+		DESC: "Where subjects work and produce cakes",
+	},
+	{
+		NAME: "Cooking Station",
+		DESC: "Adds Efficiency to the room",
+	},
+],
+
