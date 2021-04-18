@@ -1,0 +1,38 @@
+Replaces the PLAYER'S GOVERNMENT ONLY with a Glorian-styled military dictatorship. FOR CAT AND COUNTRY!
+16 officers to appoint. Military dictatorship flavor. Different rank bonuses that yield military benefits. And replaces the throne with a dictatorship-styled office desk that has a nice carpet and rug rather than ugly and uncomfy stone. 
+
+[u]The Throne[/u]
+The throne will be replaced with a carpeted office. It comes complete with an office chair and desk. Rather than improving the quality of either, more paperwork, knicknacks, and a mug will be added as you level up. At Dictator rank (previously "emperor") you will be granted a golden pen
+
+[u]Levels/Ranks[/u]
+Happiness bonus will be reduced and supplemented with a combat and submission bonus. Additionally, ranks have been rethemed to become military ranks at lower levels, then site director, then governor, then minor dictator and finally Dictator!
+
+[u]The Officers[/u]
+Replacing the nobility, officers come equipped with a ton of juicy bonuses
+
+[b]Bureaucrats[/b]
+CFO - Boosts jewelry production and gem mining
+Scriptorium Archivist - Boosts paper production and research
+Administration Executive - Boosts research (will boost administration in the future)
+Propaganda Director - Boosts submission and happiness
+
+[b]Engineers[/b]
+Chief Engineer - Reduces degredation and boosts construction speed
+
+[b]Logistics Officers[/b]
+Head Chef - Boosts brewery, meat, and fish production
+Ration Warrant Officer - Boosts farm and bakery production
+Logistics Chief + Logistics Auditor - Boosts carry capacity and reduces degredation
+
+[b]Drill Sargeants[/b]
+Drill Instructor - Boosts training speed
+Commissar - Boosts Combat Defence
+Tactics Instructor - Boosts Battle Damage
+
+[b]Executives[/b]
+Military-Industrial Executive - Boosts tool and weapon production
+Uniform Designer - Boosts fabric refining and clothes production
+RGO Executive - Boosts mine and refinery output
+
+[b]Marshalls[/b]
+Military Police Marshall - Boosts submission and slightly improves happiness

@@ -1,0 +1,32 @@
+Adds many more nobles to the game and increases noble capacity all around (same # of nobles as dictatorship mod)
+
+[u]Nobles:[/u]
+
+[b]Agrarian Nobles[/b]
+Master of Farms - Boosts all Farms
+Narcocrat - Boosts Opiate Production, Slave Submission
+Master of the Feast - Boosts the production of breweries, mushroom and veggie farms
+Master of Textiles - Boosts cotton farms and weavers
+
+[b]Generals[/b]
+Master of Battle - Boosts training speed
+Master of Pain - Boosts combat defence
+Master of War - Boosts battle damage
+
+[b]Urban Nobles[/b]
+Master of Industry - Boosts all industry
+Master of Refinery - Boosts all refiners
+Master of The Forge - Boosts smelters and smithies
+Master of Fashions - Boosts clotheirs and jewelers
+University Headmaster - Boosts library output and papermakers
+Slavemaster - Slave submission
+Master Builder - Reduces degredation rate, improves carry capacity, and boosts carpenter production
+
+[b]RGO Nobles[/b]
+Master of Mines - Boosts mine production
+Master Treasurer - Boosts gem and slithon production
+Master Stonemason - Boosts stone production and masonry
+
+[b]Other Nobles[/b]
+Master of Livestock - Boosts Pastures
+Master of the Hunt - Boosts hunting and battle damage
