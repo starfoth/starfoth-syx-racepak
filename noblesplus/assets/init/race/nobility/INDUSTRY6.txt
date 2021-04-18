@@ -1,0 +1,11 @@
+BONUS: {
+	ROOM: {
+		
+	},
+	MISC: {
+		WORKSHOP: 0.05,
+		SUBMISSION: 0.15,
+	},
+},
+COLOR: [80,80,10,],
+

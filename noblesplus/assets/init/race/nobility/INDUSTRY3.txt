@@ -1,0 +1,12 @@
+BONUS: {
+	ROOM: {
+		INDUSTRY_SMELTER: 0.15,
+		WORKSHOP_TOOL: 0.15,
+		WORKSHOP_WEAPON: 0.15,
+	},
+	MISC: {
+		
+	},
+},
+COLOR: [80,80,10,],
+

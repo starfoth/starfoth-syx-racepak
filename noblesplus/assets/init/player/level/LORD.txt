@@ -1,0 +1,11 @@
+POPULATION: 1000,
+NOBLES: 5,
+REGIONS: 1,
+BONUS: {
+	MISC: {
+		HAPPINESS: 0.3,
+	},
+},
+ROOMS: [
+
+],

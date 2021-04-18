@@ -1,0 +1,5 @@
+
+INFO: {
+	NAME: "Master of Battle",
+	DESC: "The Master of Battle is a strict trainer who knows the best ways to whip an army up to pace. Also known as the "Master of Conscripts" or the "Master of Men-At-Arms" in some kingdoms",
+},

@@ -1,0 +1,10 @@
+BONUS: {
+	ROOM: {
+		_HUNTER: 0.5,
+	},
+	MISC: {
+		COMBAT_DAMAGE: 0.1,
+	},
+},
+COLOR: [80,80,20,],
+

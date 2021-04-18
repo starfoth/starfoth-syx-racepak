@@ -1,0 +1,11 @@
+BONUS: {
+	ROOM: {
+		FARM_COTTON: 0.25,
+		INDUSTRY_WEAVER: 0.1,
+	},
+	MISC: {
+		
+	},
+},
+COLOR: [80,60,5,],
+

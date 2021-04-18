@@ -1,0 +1,10 @@
+BONUS: {
+	ROOM: {
+		_BARRACKS: 0.25,
+	},
+	MISC: {
+		
+	},
+},
+COLOR: [80,50,50,],
+

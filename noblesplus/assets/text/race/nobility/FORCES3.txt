@@ -1,0 +1,5 @@
+
+INFO: {
+	NAME: "Master of War",
+	DESC: "The Master of War is an ingenious tactician and a brilliant general who is more than capable of leading the charge and crushing all enemies in their path",
+},

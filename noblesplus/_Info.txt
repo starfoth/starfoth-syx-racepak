@@ -1,0 +1,7 @@
+VERSION: "1",
+GAME_VERSION_MAJOR: 57,
+GAME_VERSION_MINOR: 23,
+NAME: "NoblesPlus",
+DESC: "Adds a large variety of more nobles for you to choose from",
+AUTHOR: "Starfoth",
+INFO: "Many more nobles", 

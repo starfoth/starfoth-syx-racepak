@@ -1,0 +1,10 @@
+BONUS: {
+	ROOM: {
+		
+	},
+	MISC: {
+		REFINER: 0.1,
+	},
+},
+COLOR: [80,80,10,],
+

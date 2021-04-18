@@ -1,0 +1,12 @@
+BONUS: {
+	ROOM: {
+		WORKSHOP_JEWELRY: 0.15,
+		WORKSHOP_TAILOR: 0.2,
+		WORKSHOP_TAILOR_LEATHER: 0.25,
+	},
+	MISC: {
+		
+	},
+},
+COLOR: [80,80,10,],
+

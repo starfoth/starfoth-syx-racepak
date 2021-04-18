@@ -1,0 +1,11 @@
+BONUS: {
+	ROOM: {
+		WORKSHOP_MASON: 0.25,
+		MINE_STONE: 0.25,
+	},
+	MISC: {
+		
+	},
+},
+COLOR: [80,10,10,],
+

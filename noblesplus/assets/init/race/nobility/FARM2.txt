@@ -1,0 +1,10 @@
+BONUS: {
+	ROOM: {
+		FARM_SPICES: 0.25,
+	},
+	MISC: {
+		SUBMISSION: 0.10,
+	},
+},
+COLOR: [80,60,5,],
+

@@ -1,0 +1,5 @@
+
+INFO: {
+	NAME: "Master of Pain",
+	DESC: "The Master of Pain is a brutal disciplinarian who teaches soldiers to not fear pain and gets them used to it. As a result, soldiers are able to stand and fight after sustaining larger amounts of damage",
+},
