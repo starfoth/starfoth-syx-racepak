@@ -1,0 +1,4 @@
+INFO: {
+	NAME: "Brickworks Overseer",
+	DESC: "The Brickworks Overseer manages the clay mines, the brickworks, and the pottery maker to ensure a continuous supply chain is maintained",
+},

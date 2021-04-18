@@ -1,0 +1,12 @@
+BONUS: {
+	ROOM: {
+		WORKSHOP_POTTERY: 0.15,
+		REFINERY_BRICK: 0.15,
+		MINE_CLAY: 0.25,
+	},
+	MISC: {
+		
+	},
+},
+COLOR: [120,60,5,],
+
