@@ -1,0 +1,2 @@
+NAME: "Night Owl",
+DESC: "Greatly prefers the nighttime and is uncomfortable during the day. Will be far more comfortable in the cold with their acclimation to the nighttime.",

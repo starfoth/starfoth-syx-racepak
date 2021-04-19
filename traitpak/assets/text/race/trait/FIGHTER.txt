@@ -1,0 +1,2 @@
+NAME: "Fighter",
+DESC: "A proficient and skilled fighter. Markably above the average individual in combat.",

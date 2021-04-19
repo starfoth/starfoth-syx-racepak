@@ -1,0 +1,2 @@
+NAME: "Hypochondriac",
+DESC: "Chronically ill and holds a weak immune system. Will likely die of a simple flu.",

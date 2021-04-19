@@ -1,0 +1,2 @@
+NAME: "Anger Problems",
+DESC: "A berserker, a rager, an auroch-hole. Whatever you want to call them, these individuals are prone to anger and will not hesitate to lash out if things do not go their way.",

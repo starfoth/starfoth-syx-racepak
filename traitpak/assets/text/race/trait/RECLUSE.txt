@@ -1,0 +1,2 @@
+NAME: "Asocial",
+DESC: "A very non-social individual whose inwards isolationism goes beyond a typical introvert. Prefers to live a solitary life and avoids socialization.",

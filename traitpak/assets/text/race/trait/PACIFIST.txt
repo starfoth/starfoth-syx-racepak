@@ -1,0 +1,2 @@
+NAME: "Pacifist",
+DESC: "Completely unwilling to fight or harm another, this individual is staunchly pacifistic",

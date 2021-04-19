@@ -1,0 +1,2 @@
+NAME: "Robust",
+DESC: "A strong and robust individual with an impressive constitution. Hardy bones, thick skin, and a strong structure. Much harder to knock down or harm.",

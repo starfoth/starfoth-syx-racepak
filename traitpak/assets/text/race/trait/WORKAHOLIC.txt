@@ -1,0 +1,2 @@
+NAME: "Hard-Worker",
+DESC: "A workaholic. This individual takes hard work VERY seriously and will place their work above other forms of self fulfillment because they derive joy from the fulfillment that work itself brings",
