@@ -1,0 +1,21 @@
+COLOR: [20,20, 255,],
+LEVELS: [
+	{
+		COST: 100,
+		ROOMS: [
+			HYGINE_BATH_NORMAL,
+		],
+	},
+	{
+		COST: 800,
+		ROOMS: [
+			HYGINE_BATH_ADVANCED,
+		],
+	},
+	{
+		COST: 1500,
+		ROOMS: [
+			SER_CHAMBER_NORMAL,
+		],
+	},
+],

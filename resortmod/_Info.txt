@@ -1,0 +1,7 @@
+VERSION: "1",
+GAME_VERSION_MAJOR: 57,
+GAME_VERSION_MINOR: 23,
+NAME: "ResortMod",
+DESC: "Reskins the bathhouse to look like a sauna/spa area",
+AUTHOR: "Starfoth",
+INFO: "Bathhouse reskin", 

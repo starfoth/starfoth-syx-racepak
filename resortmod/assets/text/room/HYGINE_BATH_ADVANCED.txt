@@ -1,0 +1,51 @@
+INFO: {
+	NAME: "Spa Springs",
+	NAMES: "Spas",
+	DESC: "Ultimately luxurious hot springs. Place the springs outdoors and the sauna chairs indoors if possible!",
+	WIKI: {
+		CATEGORY: "Service",
+		NAME: "Spa Springs",
+		TEXT: "Spa Springs are highly expensive, require more coal, more work, and customers require 2x the relaxing time, but fills the need completely",
+		KEY: "BARRACKS",
+		LINKS: [],
+	},
+},
+
+HEATING: "Heating",
+HEATING_DESC: "Current Heating of the springs. Make sure coal is nearby",
+HEATING_PROBLEM: "Low heating decreases the experience!",
+
+WORK: {
+	TITLE: "Spa Staff",
+	VERB: "Maintaining Spring",
+},
+
+STATS: [
+	{
+		NAME: "Hot Springs",
+		DESC: "Available bathing spots",
+	},
+	{
+		NAME: "Sauna Table",
+		DESC: "Where people can relax afterwards.",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Hot Spring",
+		DESC: "Increases bathing spots",
+	},
+	{
+		NAME: "Sauna Table",
+		DESC: "Adds Relaxation to the room.",
+	},
+],
+
+SERVICE: {
+	NAME: "Spring",
+	NAMES: "Springs",
+	DESC: "The amount of springs",
+	VERB: "Enjoying Spa",
+},
+

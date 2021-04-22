@@ -1,0 +1,41 @@
+TYPE: BATH,
+RESOURCES: [STONE_CUT,WOOD,GEM,],
+AREA_COSTS: [0.1,0.2,0,],
+FLOOR: WOODMOSAIC,
+MINI_COLOR: [70,0,255,],
+
+ITEMS: [
+	{
+		COSTS: [10,0,3,],
+		STATS: [0.5,0,],
+	},
+	{
+		COSTS: [1,4,1,],
+		STATS: [0,2,],
+	},
+],
+
+
+WORK: {
+	SHIFT_OFFSET: 0.375,
+	SOUND: CRANK,
+	USES_TOOL: false,
+	FULFILLMENT: 1,
+},
+
+INDUSTRY: {
+	IN: {
+		COAL: 0.1,
+	},
+},
+
+SERVICE: {
+	DEFAULT_ACCESS: 1.0,
+	DEFAULT_VALUE: 1.0,
+	
+	STANDING: {
+		CITIZEN: 3.0,
+		SLAVE: 0,
+		NOBLE: 3.5,
+	}, 
+},
