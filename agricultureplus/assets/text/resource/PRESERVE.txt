@@ -1,0 +1,3 @@
+NAME: "Preserve",
+NAMES: "Preserves",
+DESC: "Preserves are a large category of preserved goods. Contains cheese, jerky, pemmican, canned goods, smoked fish, dried fruits, and many more long-lasting preserved goods."

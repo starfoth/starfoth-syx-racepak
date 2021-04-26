@@ -1,0 +1,32 @@
+INFO: {
+	NAME: "Preservery - Fruit",
+	NAMES: "Preserveries - Fruit",
+	DESC: "Turns fruit into preserves (Jam)",
+},
+
+WORK: {
+	TITLE: "Preserver",
+	VERB: "Making Jam",
+},
+
+STATS: [
+	{
+		NAME: "Workers",
+		DESC: "The amount of workers",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "Efficiency increases production",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Jam Cookery",
+		DESC: "Where subjects work and produce preserves",
+	},
+	{
+		NAME: "Auxillary Workbench",
+		DESC: "Adds Efficiency to the room",
+	},
+],

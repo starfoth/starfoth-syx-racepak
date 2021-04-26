@@ -1,0 +1,27 @@
+COLOR: [180,180, 180,],
+LEVELS: [
+	{
+		COST: 600,
+		ROOMS: [
+			INDUSTRY_PRESERVE_FISH,
+		],
+	},
+	{
+		COST: 1200,
+		ROOMS: [
+			INDUSTRY_PRESERVE_MILK,
+		],
+		REQUIRES: {
+			A_PRESERVE_UNLOCKS: 1,
+		},
+	},
+	{
+		COST: 1800,
+		ROOMS: [
+			INDUSTRY_PRESERVE_FRUIT,
+		],
+		REQUIRES: {
+			A_PRESERVE_UNLOCKS: 2,
+		},
+	},
+],

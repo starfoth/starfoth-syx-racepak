@@ -1,0 +1,3 @@
+NAME: "Milk",
+NAMES: "Milk",
+DESC: "Delicious calcium drink. Can be consumed by the population as-is or refined into cheese.",

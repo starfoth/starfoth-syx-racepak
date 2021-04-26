@@ -1,0 +1,5 @@
+INFO: {
+	NAME: "Dromedary",
+	NAMES: "Dromedaries",
+	DESC: "Oh, it's a camel. Dromedaries are a lot like Aurochs but produce more milk and less meat and leather.",
+},

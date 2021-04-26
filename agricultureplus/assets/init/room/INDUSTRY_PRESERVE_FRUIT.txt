@@ -1,0 +1,33 @@
+TYPE: REFINER,
+RESOURCES: [STONE,WOOD,METAL,],
+AREA_COSTS: [0,0.2,0,],
+FLOOR: WOOD,
+MINI_COLOR: [38,195,38,],
+
+ITEMS: [
+	{
+		COSTS: [2,6,1,],
+		STATS: [2,0,],
+	},
+	{
+		COSTS: [0.5,0,2,],
+		STATS: [0,0.5,],
+	},
+],
+
+
+WORK: {
+	SHIFT_OFFSET: 0.125,
+	SOUND: MACHINE,
+	USES_TOOL: true,
+	FULFILLMENT: 0.2,
+},
+
+INDUSTRY: {
+	IN: {
+		FRUIT: 6.0,
+	},
+	OUT: {
+		PRESERVE: 6,
+	},
+},

@@ -1,0 +1,32 @@
+INFO: {
+	NAME: "Preservery - Fish",
+	NAMES: "Preserveries - Fish",
+	DESC: "Turns fish into preserves (dried fish)",
+},
+
+WORK: {
+	TITLE: "Preserver",
+	VERB: "Drying Fish",
+},
+
+STATS: [
+	{
+		NAME: "Workers",
+		DESC: "The amount of workers",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "Efficiency increases production",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Dryer",
+		DESC: "Where subjects work and produce preserves",
+	},
+	{
+		NAME: "Auxillary Workbench",
+		DESC: "Adds Efficiency to the room",
+	},
+],

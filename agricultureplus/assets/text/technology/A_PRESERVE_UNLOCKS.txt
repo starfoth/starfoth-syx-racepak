@@ -1,0 +1,2 @@
+NAME: "Preservation",
+DESC: "Preservation techniques that allow for the preservation of food for long periods of time. Extremely useful for surviving famines or situations that lead to declining crop production such as war devastation, drought, or temporary mismanagement. Preserves will last a long time but require substantial amounts of work in order to create stocks of.",

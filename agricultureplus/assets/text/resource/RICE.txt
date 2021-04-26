@@ -1,0 +1,3 @@
+NAME: "Rice",
+NAMES: "Rice",
+DESC: "Rice is a food source that lasts a long time and is good for outlasting famines"

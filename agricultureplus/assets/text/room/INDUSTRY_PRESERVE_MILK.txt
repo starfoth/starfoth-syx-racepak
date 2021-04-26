@@ -1,0 +1,32 @@
+INFO: {
+	NAME: "Preservery - Milk",
+	NAMES: "Preserveries - Milk",
+	DESC: "Turns milk into preserves (cheese)",
+},
+
+WORK: {
+	TITLE: "Preserver",
+	VERB: "Making Cheese",
+},
+
+STATS: [
+	{
+		NAME: "Workers",
+		DESC: "The amount of workers",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "Efficiency increases production",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Cheese Press",
+		DESC: "Where subjects work and produce preserves",
+	},
+	{
+		NAME: "Auxillary Workbench",
+		DESC: "Adds Efficiency to the room",
+	},
+],

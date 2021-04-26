@@ -1,0 +1,2 @@
+NAME: "Rice Farming",
+DESC: "Rice farming advances that make farming rice easier and more productive. Everything from properly timing work periods to the flooding of the fields to selective breeding of rice, rice farming technologies are a must-have for any civilization looking for long-lasting food sources.",

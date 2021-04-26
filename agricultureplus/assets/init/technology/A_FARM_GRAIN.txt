@@ -1,0 +1,27 @@
+COLOR: [100, 255, 100,],
+LEVELS: [
+	{
+		GENERATE: 9,
+		GENERATE_COST_FROM: 25,
+		GENERATE_COST_INC: 50,
+		GENERATE_INC: 0.005,
+		BONUS: {
+			ROOM: {FARM_GRAIN: 0.02,},
+		},
+		REQUIRES: {
+			A_FARMING: 1,
+		},
+	},
+		{
+		GENERATE: 10,
+		GENERATE_COST_FROM: 500,
+		GENERATE_COST_INC: 100,
+		GENERATE_INC: 0.01,
+		BONUS: {
+			ROOM: {FARM_GRAIN: 0.1,},
+		},
+		REQUIRES: {
+			A_FARMING: 7,
+		},
+	},
+],
