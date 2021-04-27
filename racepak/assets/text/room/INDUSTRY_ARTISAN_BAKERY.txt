@@ -13,6 +13,13 @@ WORK: {
 	TITLE: "Pastry Baker",
 	VERB: "Baking a cake",
 },
+WIKI: {
+		CATEGORY: "Rooms",
+		NAME: "Artisan Bakery",
+		TEXT: "The Artisan Bakery requires a wide range of different materials to produce cakes. However, cakes degrade extremely slowly and are absolutely delivious.",
+		CATEGORIES: [],
+	},
+},
 
 STATS: [
 	{
