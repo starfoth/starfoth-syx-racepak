@@ -13,13 +13,6 @@ WORK: {
 	TITLE: "Brickmaker",
 	VERB: "Making Bricks",
 },
-WIKI: {
-		CATEGORY: "Rooms",
-		NAME: "Brickworks",
-		TEXT: "The Brickworks turns clay into bricks using coal. Clay brick structures are highly durable and inspire dread in the populace with their domineering and timeless atmosphere.",
-		CATEGORIES: [],
-	},
-},
 
 STATS: [
 	{
@@ -42,3 +35,8 @@ ITEMS: [
 		DESC: "Adds Efficiency to the room",
 	},
 ],
+WIKI: {
+		CATEGORY: "Rooms",
+		NAME: "Brickworks",
+		TEXT: "The Brickworks turns clay into bricks using coal. Clay brick structures are highly durable and inspire dread in the populace with their domineering and timeless atmosphere.",
+	},

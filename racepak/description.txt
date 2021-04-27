@@ -1,0 +1,13 @@
+Adds new races every ~1-2 updates with races themed after the contents of these new updates!
+
+[u]ea(-)57:[/u]
+[h1]VULPANS[/h1]
+The Vulpans are a decadent desert fox race who greatly enjoy luxury and extensively use slaves in their society.
+They desire access to dread to keep others in line and desire stockpiles of opiates.
+They are expert clay and brickmakers and specialize in making structures out of brick that inspire dread.
+They enjoy juicy and sweet foods like fruit, fish, and a new food item they bring to the table: [i]CAKES[/i]/
+They are not troubled by cannibalism or burial practices that others would consider 'disrespectful'. This doesn't mean they do not respect the dead, but they simply have no attachment to the bodies an as such Vulpan societies have no cares for what happens with their physical remains. 
+They suffer attack and HP penalties but make up for it with incredible speed, irridescent stamina, and exceptional defense in combat.
+Unlike virtually all other races, Vulpans are happy to be placed in positions of authority and are glad to enforce the law w/ high fulfillment in all lawgiver roles.
+Nominally more rare than vanilla races (50% desert, 25% temperate, 10% cold)
+High intelligence, criminality, speed, stamina, and submissiveness. Low HP and mass.

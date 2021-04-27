@@ -1,0 +1,19 @@
+NAME: "Vulpan",
+NAMES: "Vulpans",
+POSSESSIVE: "Vulpanian",
+DESC: 
+"Vulpans are a decadent race of desert foxes. They crave luxury and an easy life.
+They are made happy by access to private chambers, luxuries, and societies with ample slave servitude"
+",
+
+DESC_LONG:
+"Vulpans are extremely decadent. They are exceptionally good at working with clay and love jewelry. Vulpans enjoy living in societies where most of the hard labor is done by slaves.
+They are also kept in line by dread and have a high criminality. They are very cunning so watch out as they will seek to steal more than their fair share.
+Additionally, their decadent society loves to make pastries such as cakes or pies that are preserved for a very, very long time.
+%r%%r%
+Their favorite foods are breads and fruit",
+
+FIRST_NAMES: VlpFirst,
+SURNAMES: VlpLast,
+FIRST_NAMES_NOBLE: VlpFirstNoble,
+SURNAMES_NOBLE: VlpLastNoble,
