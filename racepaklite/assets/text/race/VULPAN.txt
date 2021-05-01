@@ -11,7 +11,7 @@ DESC_LONG:
 They are also kept in line by dread and have a high criminality. They are very cunning so watch out as they will seek to steal more than their fair share.
 Additionally, their decadent society loves to make pastries such as cakes or pies that are preserved for a very, very long time.
 %r%%r%
-Their favorite foods are breads and fruit",
+Vulpan kingdoms are generally passive and rely heavily on slave labor to maintain their prosperity. A majority of the slave traders you will encounter are Vulpans or hail from Vulpan kingdoms. In fact, most of the slaves that escape captivity near the desert rarely go far before they are picked up and as such, most slaves flee north for their freedom toward the Dondorians who are more than happy to welcome them.",
 
 FIRST_NAMES: VlpFirst,
 SURNAMES: VlpLast,

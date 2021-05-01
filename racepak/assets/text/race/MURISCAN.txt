@@ -1,0 +1,17 @@
+NAME: "Muriscan",
+NAMES: "Muriscans",
+POSSESSIVE: "Muriscanan",
+DESC: 
+"Muriscans are a race of ratmen hailing from a far off oligarchic empire outside the Syx. Muriscans are not common but a fair few of them have been migrating to the Syx in recent years populating the major cities."
+",
+
+DESC_LONG:
+"Muriscans have exceptionally high expectations and memories of home. They strongly desire grand buildings and cities that inspire awe just like home. They are very hard to please due to their high standard of living back home but will virtually never cause trouble even if they are unhappy.
+They have a low criminality but above-average strength. Virtually all immigrants you recieve will be literate and sizably well educated in the ways of their home nations making them excellent scholars. They enjoy being placed into cerebral or bureaucratic jobs. They are EXCEPTIONALLY good administrators as a result of their home country's upbringing and education.
+%r%%r%
+The Muriscan state is an oligarchic republic in which land owners elect senators to represent their districts. The Muriscan state is highly efficient and they have widespread public education, access to sanitation, and grand cut stone cities in which they live. Their empire often battles with its neighbors but their expansion is kept in check by their frequent tendancy for provinces to fight each-other. ",
+
+FIRST_NAMES: MurFirst,
+SURNAMES: MurLast,
+FIRST_NAMES_NOBLE: VlpFirstNoble,
+SURNAMES_NOBLE: VlpLastNoble,
