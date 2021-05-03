@@ -1,4 +1,4 @@
 INFO: {
 	NAME: "RGO Executive",
-	DESC: "The RGO Executive is an RGO Executive that makes sure that on-site resource gathering operations run smoothly and quickly",
+	DESC: "The RGO Executive is an RGO Executive that makes sure that on-site resource gathering operations run smoothly and quickly. Buffs mine output.",
 },

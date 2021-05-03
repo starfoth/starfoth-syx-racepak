@@ -1,4 +1,4 @@
 INFO: {
 	NAME: "Ration Warrant Officer",
-	DESC: "The Ration Warrant Officer is a Ration Officer in charge of ration direction",
+	DESC: "The Ration Warrant Officer is a Ration Officer in charge of ration direction. Buffs farm and bakery production and helps eateries run more smoothly.",
 },

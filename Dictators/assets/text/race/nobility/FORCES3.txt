@@ -1,4 +1,4 @@
 INFO: {
 	NAME: "Tactics Instructor",
-	DESC: "The Tactics Instructor is a Drill Sargeant responsible for teaching units useful in-field tactics and running combat exercises with the trainees",
+	DESC: "The Tactics Instructor is a Drill Sargeant responsible for teaching units useful in-field tactics and running combat exercises with the trainees. Buffs damage.",
 },

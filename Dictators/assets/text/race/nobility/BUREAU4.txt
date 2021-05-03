@@ -1,4 +1,4 @@
 INFO: {
 	NAME: "Propaganda Director",
-	DESC: "The Propaganda Director is a Bureaucrat responsible for designing and printing propaganda and running propaganda campaigns",
+	DESC: "The Propaganda Director is a Bureaucrat responsible for designing and printing propaganda and running propaganda campaigns. Increases happiness, submission, and paper production.",
 },

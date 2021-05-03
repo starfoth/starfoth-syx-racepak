@@ -1,4 +1,4 @@
 INFO: {
 	NAME: "Military-Industrial Executive",
-	DESC: "The Military-Industrial Executive is an industrial executive that is in charge of weapons production in the weapons workshops of the complex",
+	DESC: "The Military-Industrial Executive is an industrial executive that is in charge of weapons production in the weapons workshops of the complex. Increased weapon and tool production.",
 },

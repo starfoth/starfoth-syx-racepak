@@ -1,4 +1,4 @@
 INFO: {
 	NAME: "Administration Executive",
-	DESC: "The Administration Executive is a Bureaucrat responsible for making sure the administration of the site is run smoothly and efficiently",
+	DESC: "The Administration Executive is a Bureaucrat responsible for making sure the administration of the site is run smoothly and efficiently. Buffs administration and paper production.",
 },

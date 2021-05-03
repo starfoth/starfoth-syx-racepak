@@ -1,4 +1,4 @@
 INFO: {
 	NAME: "Logistics Auditor",
-	DESC: "The Logistics Auditor is a Logistics Officer that is in charge of making sure everything is recorded and accounted for",
+	DESC: "The Logistics Auditor is a Logistics Officer that is in charge of making sure everything is recorded and accounted for. Increases carry capacity and slightly reduces degredation.",
 },

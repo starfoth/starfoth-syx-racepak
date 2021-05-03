@@ -1,4 +1,4 @@
 INFO: {
 	NAME: "Head Chef",
-	DESC: "The Head Chef is a Ration Officer is responsible for ensuring high quality meals are made for the entire site",
+	DESC: "The Head Chef is a Ration Officer is responsible for ensuring high quality meals are made for the entire site. Buffs brewery, meat, and fish production and makes canteens run more smoothly.",
 },

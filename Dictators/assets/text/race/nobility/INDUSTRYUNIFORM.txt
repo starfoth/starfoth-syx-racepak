@@ -1,4 +1,4 @@
 INFO: {
 	NAME: "Uniform Designer",
-	DESC: "The Uniform Designer is an Industrial Executive that is in charge of designing stylish uniforms for the citizens of the complex and for the military and ensuring their production runs smoothly",
+	DESC: "The Uniform Designer is an Industrial Executive that is in charge of designing stylish uniforms for the citizens of the complex and for the military and ensuring their production runs smoothly. Improves clothing production and fabric output.",
 },

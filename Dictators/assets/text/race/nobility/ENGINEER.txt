@@ -1,4 +1,4 @@
 INFO: {
 	NAME: "Chief Engineer",
-	DESC: "The Chief Engineer is a Construction Director responsible for ensuring construction in the complex runs smoothly",
+	DESC: "The Chief Engineer is a Construction Director responsible for ensuring construction in the complex runs smoothly. Buffs construction rate and reduces degregation.",
 },

@@ -1,4 +1,4 @@
 INFO: {
 	NAME: "Scriptorium Archivist",
-	DESC: "The Scriptorium Archivist is a Bureaucrat responsible for making sure everything is properly documented and filed away",
+	DESC: "The Scriptorium Archivist is a Bureaucrat responsible for making sure everything is properly documented and filed away. Largely increases paper production, slight research buff.",
 },
