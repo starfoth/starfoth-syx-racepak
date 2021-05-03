@@ -1,0 +1,7 @@
+VERSION: "1.1",
+GAME_VERSION_MAJOR: 57,
+GAME_VERSION_MINOR: 23,
+NAME: "TierThree",
+DESC: "Adds tier 3 rooms, advanced variants of lower tier rooms, and new ways to push the quality of life and happiness",
+AUTHOR: "Starfoth",
+INFO: "Adds more services and personal effects.", 

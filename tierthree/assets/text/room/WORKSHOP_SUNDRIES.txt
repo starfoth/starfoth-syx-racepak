@@ -1,0 +1,50 @@
+INFO: {
+	NAME: "Sundries Manufactory",
+	NAMES: "Sundry Producers",
+	DESC: "A complex workshop filled with numerous tools for making large varieties of personal effects (belongings)",
+	WIKI: {
+		CATEGORY: "Tier Three",
+		NAME: "Sundires/Belongings",
+		TEXT: "Sundries (AKA 'belongings') are produced by craftsmen and clerks at the Sundries Manufactory. These belongings represent numerous mass produced small personal effects. Everything from mugs to blankets to instruments to knick-knacks, bandagaes, and way way more items are made here. Like clothes, it is implied that if not given these items they produce or trade for basic items of subsistence or own nothing at all. These items greatly improve the quality of life of your citizens and provide numerous small bonuses.
+%r%%r%
+Each level of belongings grants the following (up to 5x);
+%r%+2 int, sta, str
+%r%+2% heal rate (base heal rate is 25%)
+%r%-2% sleep need reduction per day (base sleep need per day is 50%)
+%r%+0.3 happiness",
+		KEY: "",
+		LINKS: [],
+	},
+},
+
+BONUS: {
+	NAME: "General Crafting",
+	DESC: "Increases effectiveness of Sundry Producers",
+},
+
+WORK: {
+	TITLE: "Craftsman",
+	VERB: "Making Sundries",
+},
+
+STATS: [
+	{
+		NAME: "Workers",
+		DESC: "The amount of workers",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "Efficiency increases production",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Production Line",
+		DESC: "Where subjects work",
+	},
+	{
+		NAME: "Auxiliary Station",
+		DESC: "Adds Efficiency to the room",
+	},
+],

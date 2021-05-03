@@ -1,0 +1,2 @@
+NAME: "Belongings",
+DESC: "Sundry items to make your population happier and provide numerous small bonuses.",

@@ -1,0 +1,2 @@
+NAME: "Sundries",
+DESC: "Improves the performance of our sundry producers",

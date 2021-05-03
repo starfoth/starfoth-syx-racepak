@@ -1,11 +1,16 @@
-Adds a brand new building known as the "Spa Springs"
+Adds new buildings, resources, and items to the game to improve the quality of life of your people and push the boundaries of luxury living.
 
-A luxurious hot springs building w/ sauna benches
-Fully satisfies the hygiene need meaning it needs to be used HALF as much as the regular bath house
+[h1]CURRENT CONTENT[/h1]
 
-However, while there patrons will bathe and relax for twice as long and the building itself is notably more expensive
+[u]New Resources[/u]
+[b]Belongings[/b] - Personal belongings and effects. A variety of sundries and personal items that your people can own to improve their happiness and buff a variety of minor stats to grant a small overall improvement to the robustness of your population.
 
-[i]When more rooms become more flexible/moddable this mod will be replaced with a larger mod that comprehensively adds the following:[/i]
+[u]New Tier 3 Buildings[/u]
+
+[b]Spa Springs[/b] - High quality bathhouse. Fulfills 100% of washing desire. Citizens stay clean and relaxed for 2x the time. [s]In a future update will use ergonomic furniture and components.[/s]
+
+
+[h1]FUTURE CONTENT[/h1]
 
 [u]New Resources[/u]
 
@@ -14,7 +19,6 @@ However, while there patrons will bathe and relax for twice as long and the buil
 
 [u]New Tier 3 Buildings[/u]
 
-[b]Spa Springs[/b] - High quality bathhouse. Fulfills 100% of washing desire. Citizens stay clean and relaxed for 2x the time. In a future update will use ergonomic furniture and components.
 [b]Comfortable Apartments[/b] - High quality flats. Each room takes up the same 3x3 space but with additional costs
 [b]Rec Room[/b] - High quality tavern. Auxiliaries increase quality by 1/2 and rugs are not an option (floor is carpeted), but has increased max happiness.
 [b]Restaurant[/b] - High quality canteen. Chefs make gourmet and lavish meals. 1/2 as fast but much higher happiness. 

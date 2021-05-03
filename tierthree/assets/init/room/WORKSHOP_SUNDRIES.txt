@@ -1,0 +1,37 @@
+TYPE: WORKSHOP,
+RESOURCES: [STONE,FURNITURE,METAL,],
+AREA_COSTS: [0.2,0,0,],
+FLOOR: STONE_LARGE_DARK,
+MINI_COLOR: [226,195,38,],
+
+ITEMS: [
+	{
+		COSTS: [2,6,2,],
+		STATS: [3,0,],
+	},
+	{
+		COSTS: [0,2,3,],
+		STATS: [0,3,],
+	},
+],
+
+
+WORK: {
+	SHIFT_OFFSET: 0.325,
+	SOUND: METAL,
+	USES_TOOL: true,
+	FULFILLMENT: 0.25,
+},
+
+
+INDUSTRY: {
+	IN: {
+		_WOOD: 1,
+		FABRIC: 1,
+		POTTERY: 0.5,
+		PAPER: 0.5,
+	},
+	OUT: {
+		BELONGINGS: 3,
+	},
+},

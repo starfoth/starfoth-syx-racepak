@@ -1,0 +1,3 @@
+NAME: "Belongings",
+NAMES: "Belongings",
+DESC: "Mass-produced sundry items provide numerous small bonuses to the population but require a fairly complex and hard to set up production chain.",
