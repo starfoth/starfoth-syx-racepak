@@ -1,5 +1,5 @@
 INFO: {
-	NAME: "Sundries Manufactory",
+	NAME: "Manufactory - Sundries",
 	NAMES: "Sundry Producers",
 	DESC: "A complex workshop filled with numerous tools for making large varieties of personal effects (belongings)",
 	WIKI: {
