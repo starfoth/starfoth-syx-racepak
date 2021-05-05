@@ -1,0 +1,10 @@
+BONUS: {
+	ROOM: {
+		
+	},
+	MISC: {
+		FISHING: 0.25,
+	},
+},
+COLOR: [80,80,20,],
+

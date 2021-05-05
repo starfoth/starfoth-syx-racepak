@@ -27,6 +27,7 @@ Master of Mines - Boosts mine production
 Master Treasurer - Boosts gem and slithon production
 Master Stonemason - Boosts stone production and masonry
 
-[b]Other Nobles[/b]
+[b]Pastoral Nobles[/b]
 Master of Livestock - Boosts Pastures
 Master of the Hunt - Boosts hunting and battle damage
+Master Baiter - Boosts fishing
