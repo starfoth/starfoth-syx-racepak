@@ -1,0 +1,48 @@
+PERSONALITY
+Dislikes Art - Reduced happiness from Awe
+Excitable - Moves faster(?)
+Collector - Possibly desires more sundries from TierThree
+Neurotic - Higher happiness penalties(?)
+Loner - Less social needs(?)
+Socialite - More social needs(?)
+Adventurous - More likely to emigrate or travel(?)
+Ambitious - Desires nobility/more nobles
+Animal Lover - Better with pastures
+
+APTITUDE
+Green Thumb - Better with farms
+Handy - Better with workshops
+Perceptive - Better with refineries
+Creative - Increased art production from TierThree
+Machinist - Increased component production from TierThree
+Mixologist - Better at tavern rooms(?)
+
+OTHER
+Brave - More morale
+Coward - Less morale
+Lucky - unknown(?)
+Tidy - unknown(?) maybe a better janitor?
+Slob - unknown(?) maybe a worse janitor?
+Eco-friendly - Increased happiness from Harmony
+Cultured - Increased happiness from Awe
+Sadist - Increased happiness from Dread/no mercy need(maybe inverted)
+Fast Metabolism - More food need and possibly other effects
+Steel Bladder - No constipation/lavatory happiness always max
+Dirt Defiant - Vastly reduced need for hygiene
+Hardly Hungry - Reduced need for food
+Meditative Trance Sleep - Reduced need for sleep
+Raised by Wolves - Vastly improved hunting, vastly reduced exposure rate
+
+SCRAPPED
+Eccentric - Filled by Odd Fellow
+Charismatic - More social needs(?)
+Party Animal - More social needs(?)
+Attractive - More social needs(?)
+Inventor - Filled by machinist
+Artisanal - Filled by creative
+Fearless - Filled by brave
+Competitive Eater - Increased need for food(?)
+Festival Frequenter - Increased thirst(?)
+Educated - Kind of weird to make this a trait, also will conflcit with edu update
+Megalomaniac - Idk
+
