@@ -1,0 +1,7 @@
+VERSION: "1",
+GAME_VERSION_MAJOR: 57,
+GAME_VERSION_MINOR: 23,
+NAME: "DegradeMinus",
+DESC: "Removes spoilage for cut stone, pottery, clay, tools, and battlegear. Reduces spoilage for furniture and alcohol.",
+AUTHOR: "Starfoth",
+INFO: "Reduces or removes spoilage for non-degradable items.", 

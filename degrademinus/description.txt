@@ -1,0 +1,24 @@
+Reduces or removes spoilage for non-degradable items.
+
+[u]REMOVED SPOILAGE/DEGRADE RATE[/u]
+-Cut Stone
+-Pottery
+-Clay
+-Tools
+-Battlegear
+
+[u]REDUCED SPOILAGE[/u]
+-Furniture: 2 years -> 5 years
+-Alcohol: 2.5 years -> 3.5 years
+
+[u]UNCHANGED[/u]
+-Wear rate on equipped items
+-All food items
+-Clothes (5 years)
+-Livestock (1 year)
+-Wood (5 years)
+-Cotton (10 years)
+-Fabric (10 years)
+-Leather (10 years)
+-Opiates (1 year)
+-Paper (10 years)
