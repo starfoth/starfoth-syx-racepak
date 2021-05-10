@@ -1,0 +1,49 @@
+INFO: {
+	NAME: "Scriptorium",
+	NAMES: "Scriptorium",
+	DESC: "Where knowledge is stored and maintained.",
+	WIKI: {
+		CATEGORY: "Tier Three",
+		NAME: "Scriptoriums",
+		TEXT: "In a scriptorium, printers compile large numbers of disconcertd bits of knowledge and information into easily accessible textbooks, codexes, encyclopedias, and compediums that contain smaller works of various sizes. The information is edited to be as consice and standardized as possible and allows for easy access to information from many different sources and authors.
+%r%%r%
+The Scriptorium works a lot like the library itself does. Research points are gained overwhelmingly slower and substantial quantities of paper are used for correspondance and drafts, but they can hold 5x the information and knowledge is lost at a tenth of the rate!",
+	},
+},
+
+BONUS: {
+	NAME: "Scriptorium Rate",
+	DESC: "Increases the knowledge production.",
+},
+
+WORK: {
+	TITLE: "Scholar",
+	VERB: "Scribing",
+},
+
+STATS: [
+	{
+		NAME: "Capacity",
+		DESC: "The amount of knowlege that can be stored.",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "The efficiency greatly improves knowledge production.",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Bibliotech Station",
+		DESC: "Where scholars work.",
+	},
+	{
+		NAME: "Shelf",
+		DESC: "Increases the efficiency of the room.",
+	},
+	{
+		NAME: "Carpet",
+		DESC: "Looks pretty. Useless.",
+	},
+],
+

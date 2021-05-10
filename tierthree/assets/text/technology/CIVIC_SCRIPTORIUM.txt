@@ -1,0 +1,2 @@
+NAME: "Scriptorium",
+DESC: "Enables an advanced form of the library and gives it bonuses",

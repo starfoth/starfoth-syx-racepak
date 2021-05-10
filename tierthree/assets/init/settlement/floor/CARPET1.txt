@@ -1,0 +1,3 @@
+SPRITE: carpet1,
+COLOR_MASK: [255,255,255,],
+
