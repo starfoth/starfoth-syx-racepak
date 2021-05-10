@@ -1,7 +1,7 @@
 COLOR: [20,20, 255,],
 LEVELS: [
 	{
-		COST: 3000,
+		COST: 8000,
 		ROOMS: [
 			_LIBRARY_SCRIPTORIUM,
 		],
