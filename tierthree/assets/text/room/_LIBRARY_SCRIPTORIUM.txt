@@ -12,7 +12,7 @@ The Scriptorium works a lot like the library itself does. Research points are ga
 },
 
 BONUS: {
-	NAME: "Scriptorium Rate",
+	NAME: "Printing Speed",
 	DESC: "Increases the knowledge production.",
 },
 

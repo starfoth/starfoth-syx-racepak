@@ -1,0 +1,39 @@
+TYPE: FLAT,
+RESOURCES: [STONE_CUT,FURNITURE_ERGONOMIC,FABRIC,],
+AREA_COSTS: [0.2,0,0.2,],
+FLOOR: CARPET2,
+FLOOR2: CARPET3,
+MINI_COLOR: [70,0,255,],
+
+ITEMS: [
+	{
+		COSTS: [2,4,7,],
+		STATS: [1,0,0.2,],
+	},
+	{
+		COSTS: [1,4,1,],
+		STATS: [0,1,0,],
+	},
+	{
+		COSTS: [0,0,1,],
+		STATS: [0,0,0,],
+	},
+],
+
+
+WORK: {
+	SHIFT_OFFSET: 0.1,
+	SOUND: FABRIC,
+	USES_TOOL: false,
+	FULFILLMENT: 0.0,
+},
+
+SERVICE: {
+	DEFAULT_ACCESS: 1.0,
+	STANDING: {
+		CITIZEN: 3.5,
+		SLAVE: 0,
+		NOBLE: 2.5,
+	},
+	SOUND:SLEEP,
+},

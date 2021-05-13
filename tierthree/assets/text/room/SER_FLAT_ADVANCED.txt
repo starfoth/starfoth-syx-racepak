@@ -1,0 +1,53 @@
+INFO: {
+	NAME: "Comfortable Apartments",
+	NAMES: "Condominiums",
+	DESC: "Where subjects sleep. Improves sleep quality",
+	WIKI: {
+		CATEGORY: "Tier Three",
+		NAME: "Apartments/Condominiums",
+		TEXT: "Apartments (or 'Condominiums') are more advanced variants of Flats that provide a much greater level of satisfaction at a substantially higher cost. Rugs are merely decorative and you need to rely on knickknacks to make commons areas for the people to enjoy to truly make it comfortable.",
+		CATEGORIES: [],
+	},
+},
+
+WORK: {
+	TITLE: "Maid",
+	VERB: "Cleaning",
+},
+
+STATS: [
+	{
+		NAME: "Apartments",
+		DESC: "Available apartments",
+	},
+	{
+		NAME: "Coziness",
+		DESC: "Coziness greatly improves sleep quality. Improved placing items",
+	},
+	{
+		NAME: "Workers",
+		DESC: "An approximation of how many workers will be required to operate this room.",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Condo",
+		DESC: "Increases Apartments.",
+	},
+	{
+		NAME: "Commons Furniture",
+		DESC: "Adds Coziness to the room.",
+	},
+	{
+		NAME: "Carpets",
+		DESC: "Useless. Decorative.",
+	},
+],
+
+SERVICE: {
+	NAME: "Apartment",
+	NAMES: "Apartments",
+	DESC: "Where your subjects sleep",
+	VERB: "Sleeping",
+},
