@@ -9,7 +9,6 @@ Reduces or removes spoilage for non-degradable items.
 
 [u]REDUCED SPOILAGE[/u]
 -Furniture: 2 years -> 5 years
--Alcohol: 2.5 years -> 3.5 years
 
 [u]UNCHANGED[/u]
 -Wear rate on equipped items
@@ -22,3 +21,6 @@ Reduces or removes spoilage for non-degradable items.
 -Leather (10 years)
 -Opiates (1 year)
 -Paper (10 years)
+
+
+-Alcohol: 4 years [Previously in mod, low degrade rate added to vanilla]

@@ -1,0 +1,10 @@
+-95% Degredation Rate (Cannot go lower or else the game crashes)
+3x Slower Research
+5x Library Storage
+10x Paper Usage
+
+Slow but guaranteed technological progress!
+
+The nation of Gloria has an alternative method of preserving and storing knowledge. Their technology "TEXTBOOKS" allows your scholars to compile their many many disconcerted bits of knowledge and information into easily accessible textbooks, codexes, encyclopedias, and compediums that contain smaller works of different sizes. Compiling books into textbooks makes the knowledge easy to maintain and store, but requires lots of high quality paper to draft and lots of time to compile. But you will be glad to see your libraries containing easily accessible textbooks that store large caches of knowledge and require far less workers to maintain!
+
+4-17-2021 CONFIRMED: Jake has confirmed the min degredation rate crash will be fixed next patch, allowing -95% degredation rate. Research will be slowed down accordingly to 5x slower research because the degredation rate will be gone

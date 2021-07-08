@@ -3,7 +3,7 @@ Adds new buildings, resources, and items to the game to improve the quality of l
 [h1]CURRENT CONTENT[/h1]
 
 [u]New Resources[/u]
-[b]Belongings[/b] - Personal belongings and effects. A variety of sundries and personal items that your people can own to improve their happiness and buff a variety of minor stats to grant a small overall improvement to the robustness of your population.
+[b]Belongings(sundries)[/b] - Personal belongings and effects. A variety of sundries and personal items that your people can own to improve their happiness and buff a variety of minor stats to grant a small overall improvement to the robustness of your population.
 
 [u]New Tier 3 Buildings[/u]
 
@@ -19,7 +19,7 @@ Adds new buildings, resources, and items to the game to improve the quality of l
 
 [u]New Tier 3 Buildings[/u]
 
-[b]Comfortable Apartments[/b] - High quality flats. Each room takes up the same 3x3 space but with additional costs
+[b]Comfortable Apartments[/b] - High quality flats. The size of a chamber but with 4 beds to fit a whole family!
 [b]Rec Room[/b] - High quality tavern. Auxiliaries increase quality by 1/2 and rugs are not an option (floor is carpeted), but has increased max happiness.
 [b]Restaurant[/b] - High quality canteen. Chefs make gourmet and lavish meals. 1/2 as fast but much higher happiness. 
 

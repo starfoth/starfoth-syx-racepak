@@ -1,6 +1,6 @@
 BONUS: {
 	ROOM: {
-		_LIBRARY: 0.1,
+		LIBRARY_NORMAL: 0.1,
 		WORKSHOP_PAPER: 0.25,
 	},
 	MISC: {
