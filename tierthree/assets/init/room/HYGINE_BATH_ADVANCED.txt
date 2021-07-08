@@ -34,7 +34,7 @@ SERVICE: {
 	DEFAULT_VALUE: 1.0,
 	
 	STANDING: {
-		CITIZEN: 3.0,
+		CITIZEN: 3.5,
 		SLAVE: 0,
 		NOBLE: 3.5,
 	}, 

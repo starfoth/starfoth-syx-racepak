@@ -17,3 +17,11 @@ CLIMATE: {
 	TEMPERATE: 0.5,
 	HOT: 1,
 },
+
+TERRAIN: {
+	MOUNTAIN: 0.5,
+	NONE: 0.25,
+},
+
+PACK: true,
+GRAZES: true,

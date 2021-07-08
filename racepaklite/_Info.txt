@@ -1,6 +1,6 @@
 VERSION: "1",
-GAME_VERSION_MAJOR: 57,
-GAME_VERSION_MINOR: 23,
+GAME_VERSION_MAJOR: 58,
+GAME_VERSION_MINOR: 24,
 NAME: "RacePak",
 DESC: "Combined Racial Pack. Adds new races themed after every 1-2 updates and its content.",
 AUTHOR: "Starfoth",

@@ -17,3 +17,10 @@ FIRST_NAMES: VlpFirst,
 SURNAMES: VlpLast,
 FIRST_NAMES_NOBLE: VlpFirstNoble,
 SURNAMES_NOBLE: VlpLastNoble,
+
+ARMY_NAMES: [
+	"The Burning Sands",
+	"The Lords of War",
+	"The Sunscorched",
+	"Scourge of the Desert",
+],

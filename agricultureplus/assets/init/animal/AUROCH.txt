@@ -17,3 +17,12 @@ CLIMATE: {
 	TEMPERATE: 1,
 	HOT: 0,
 },
+
+TERRAIN: {
+	FOREST: 0.5,
+	WET: 0.5,
+	NONE: 1.0,
+},
+
+PACK: true,
+GRAZES: true,
