@@ -15,11 +15,13 @@ PREFERRED: {
 		CAKE,
 	],
 	STRUCTURE: {
-		GRAND: 1.0,
-		MOUNTAIN: 1.0,
+		GRAND: 0.5,
+		IMPERIAL: 1.0,
+		MOUNTAIN: 0.5,
 	},
 	WORK: {
-		_LIBRARY: 1.0,
+		LIBRARY_NORMAL: 1.0,
+		ADMIN_NORMAL: 1.0,
 		_COURT: 1.0,
 	},
 },
@@ -29,7 +31,8 @@ BONUS: {
 		HAPPINESS: -0.5,
 	},
 	ROOMS: {
-		_LIBRARY: 0.2,
+		LIBRARY_NORMAL: 0.5,
+		ADMIN_NORMAL: 2.0,
 	},
 },
 

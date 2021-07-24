@@ -1,0 +1,13 @@
+INFO: {
+	NAME: "Imperial Building",
+	NAMES: "Imperial Buildings",
+	DESC: "An imposing and durable structure",
+},
+
+BONUS: {
+	NAME: "High Muriscan Structure Construction",
+	DESC: "Decreases construction time of Imperial Structures",
+},
+
+NAME_WALL: "Imperial Wall",
+NAME_CEILING: "High Imperial Ceiling",
