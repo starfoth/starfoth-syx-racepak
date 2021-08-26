@@ -4,14 +4,15 @@ Reduces or removes spoilage for non-degradable items.
 -Cut Stone
 -Pottery
 -Clay
--Tools
--Battlegear
+-Tools (in storage)
+-Battlegear (in storage)
+-Jewelry (equipped and unequipped)
 
 [u]REDUCED SPOILAGE[/u]
 -Furniture: 2 years -> 5 years
 
 [u]UNCHANGED[/u]
--Wear rate on equipped items
+-Wear rate on equipped tools, clothes, and weapons
 -All food items
 -Clothes (5 years)
 -Livestock (1 year)
