@@ -1,0 +1,30 @@
+INFO: {
+	NAME: "Mycelium Plantation",
+	NAMES: "Mycelium Plantations",
+	DESC: "Grows Mushroom Trees",
+},
+
+BONUS: {
+	NAME: "Mushroom Tree Silviculture",
+	DESC: "Increases production of Mycelium Plantations",
+},
+
+WORK: {
+	TITLE: "Plantation Worker",
+	VERB: "Farming",
+},
+
+STATS: [
+	{
+		NAME: "Fertility",
+		DESC: "The fertility of the farmland",
+	},
+	{
+		NAME: "Farmers",
+		DESC: "The amount of Farmers needed",
+	},
+	{
+		NAME: "Yearly Output",
+		DESC: "An estimate of how much this farm will output if well worked. Not including bonuses, or irrigation",
+	},
+],

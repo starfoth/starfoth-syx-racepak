@@ -1,0 +1,2 @@
+NAME: "Creative",
+DESC: "Creative. Inventive. A lateral thinker. The ruler of a powerful inland empire. This individual is a visionary who sees the world in a different way than everyone else and can see options where others would struggle to see anything at all.",

@@ -1,6 +1,6 @@
 VERSION: "1",
 GAME_VERSION_MAJOR: 58,
-GAME_VERSION_MINOR: 24,
+GAME_VERSION_MINOR: 36,
 NAME: "AgriculturePlus",
 DESC: "Adds numerous new crops and food options.",
 AUTHOR: "Starfoth",

@@ -1,6 +1,6 @@
 VERSION: "1",
 GAME_VERSION_MAJOR: 58,
-GAME_VERSION_MINOR: 24,
+GAME_VERSION_MINOR: 36,
 NAME: "SlowTech",
 DESC: "Slow but sure technology. Minimal degredation but takes ages to research and many scholars and paper to print.",
 AUTHOR: "Starfoth",

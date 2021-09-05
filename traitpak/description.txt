@@ -1,5 +1,5 @@
 THE TRAITPAK
-[u]Currently Contains:[u] [b]33[/b] Traits!
+[u]Currently Contains:[u] [b]36[/b] Traits!
 
 [u]Traits:[/u]
 
@@ -7,6 +7,8 @@ THE TRAITPAK
 Austere
 Belligerant
 Berserker
+Confident
+Creative
 Cunning
 Curious
 Glutton
@@ -41,5 +43,6 @@ Night Owl
 Odd Fellow
 Sleeper
 Submissive
+Possessed
 
 More will be added in every update!!

@@ -4,6 +4,12 @@ INFO: {
 	DESC: "Turns fish into preserves (dried fish)",
 },
 
+
+BONUS: {
+	NAME: "Food Processing",
+	DESC: "Increases effectiveness of Preserveries",
+},
+
 WORK: {
 	TITLE: "Preserver",
 	VERB: "Drying Fish",

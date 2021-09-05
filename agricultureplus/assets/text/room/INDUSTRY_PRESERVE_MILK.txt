@@ -4,6 +4,12 @@ INFO: {
 	DESC: "Turns milk into preserves (cheese)",
 },
 
+
+BONUS: {
+	NAME: "Food Processing",
+	DESC: "Increases effectiveness of Preserveries",
+},
+
 WORK: {
 	TITLE: "Preserver",
 	VERB: "Making Cheese",

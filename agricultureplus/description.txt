@@ -1,26 +1,10 @@
-Adds a brand new building known as the "Spa Springs"
-
-A luxurious hot springs building w/ sauna benches
-Fully satisfies the hygiene need meaning it needs to be used HALF as much as the regular bath house
-
-However, while there patrons will bathe and relax for twice as long and the building itself is notably more expensive
-
-[i]When more rooms become more flexible/moddable this mod will be replaced with a larger mod that comprehensively adds the following:[/i]
+Expands the agricultural system and even adds numerous new rooms and resources
 
 [u]New Resources[/u]
+[b]Preserves[/b] - Preserves are processed food items made into pemmican, cheese, smoked meats and fish, cheese, candies, or any number of other processed food items. They last a very long time and take a specific pallette to enjoy.
+[b]Milk[/b] - Specific animals now produce milk. (dromedaries and aurochs)
 
-[b]Components[/b] - Used as a replacement for metal in tier 3 buildings
-[b]Ergonomic Furniture[/b] - Used as a replacement for furniture in tier 3 buildings
-
-[u]New Tier 3 Buildings[/u]
-
-[b]Spa Springs[/b] - High quality bathhouse. Fulfills 100% of washing desire. Citizens stay clean and relaxed for 2x the time. In a future update will use ergonomic furniture and components.
-[b]Comfortable Apartments[/b] - High quality flats. Each room takes up the same 3x3 space but with additional costs
-[b]Rec Room[/b] - High quality tavern. Auxiliaries increase quality by 1/2 and rugs are not an option (floor is carpeted), but has increased max happiness.
-[b]Restaurant[/b] - High quality canteen. Chefs make gourmet and lavish meals. 1/2 as fast but much higher happiness. 
-
-[u]New Tier 2 Buildings[/u]
-[b]Buffet[/b] - Efficient eatery. Requires a cooking station to prepare meals but does not grant happiness beyond the canteen, simply makes the meals more filling.
-[b]Restroom[/b] - High quality lavatory. Requires less work from plumbers as each spot is used multiple times before needing to be fixed but requires components and ergonomic furniture.
-[b]Rest Area[/b] - High quality hearth. Uses cut stone and ergonomic furniture. 2x as big and comes in multiple sizes.
-[b]Showers[/b] - High quality well. Uses components and grants more happiness than the well but less than the bathhouse.
+[u]New Crops[/u]
+[b]Rice[/b] - From Pegwymonie's rice mod, adds rice to the crops that function like classical wheat and can be made into meals directly. Lasts a long time. 
+[b]Mushroom Tree[/b] - Similar to the mushrooms of the north, the mushroom tree is native to the temperate and southern regions and can produce both wood and mushrooms. Far less efficient than the smaller northern mushrooms
+[b]Dromedary[/b] - Dromedaries are leather and wool producing animals native to the hotter southern regions.
