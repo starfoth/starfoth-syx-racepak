@@ -12,6 +12,7 @@ WORK: {
 	SOUND: LIBRARY,
 	USES_TOOL: true,
 	FULFILLMENT: 1.0,
+	EDUCATION_FACTOR: 2.5,
 },
 
 ITEMS: [
@@ -33,5 +34,6 @@ INDUSTRY: {
 	IN: {
 		PAPER: 1.0,
 	},
+	EDUCATION_FACTOR: 0.5,
 },
 
