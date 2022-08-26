@@ -1,0 +1,11 @@
+BONUS: {
+	RATES: {
+		LEARNING: 0.8,
+	},
+},
+OCCURENCE: 0.05,
+DISABLES_OTHER: [
+	DUMB,
+	MORON,
+	SMART,
+],
