@@ -1,27 +1,28 @@
 Reduces or removes spoilage for non-degradable items.
 
 [u]REMOVED SPOILAGE/DEGRADE RATE[/u]
--Cut Stone
+-Alcohol [One of the first pre-coinage currencies ever used fun fact]
+-Cut Stone [And raw]
 -Pottery
 -Clay
+-Coal
 -Tools (in storage)
 -Battlegear (in storage)
--Jewelry (equipped and unequipped)
+-Jewelry (equipped and unequipped + gems)
+-Metal + ore
+-Rations
 
 [u]REDUCED SPOILAGE[/u]
--Furniture: 2 years -> 5 years
+-Furniture
+-Wood
+-Clothes
+-Fabric
 
 [u]UNCHANGED[/u]
 -Wear rate on equipped tools, clothes, and weapons
 -All food items
--Clothes (5 years)
--Livestock (1 year)
--Wood (5 years)
--Cotton (10 years)
--Fabric (10 years)
--Leather (10 years)
--Opiates (1 year)
--Paper (10 years)
-
-
--Alcohol: 4 years [Previously in mod, low degrade rate added to vanilla]
+-Livestock
+-Cotton
+-Leather
+-Opiates
+-Paper

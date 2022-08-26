@@ -1,4 +1,0 @@
-PROPERTIES: {
-	ARMOUR: 0.1,
-},
-OCCURENCE: 0.05,

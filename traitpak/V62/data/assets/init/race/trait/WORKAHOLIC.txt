@@ -1,0 +1,17 @@
+BONUS: {
+	PHYSICS: {
+		WORK_PROFICIENCY: 0.25,
+		OLD_AT: -0.05,
+	},
+	RATES: {
+		SLEEP: -0.1,
+		HUNGER: -0.1,
+		DEFECATE: -0.1,
+		THIRST: -0.025,
+	},
+	BATTLE: {
+	},
+},
+OCCURENCE: 0.1,
+DISABLES_OTHER: [
+],

@@ -1,0 +1,12 @@
+BONUS: {
+	PHYSICS: {
+	},
+	RATES: {
+	},
+	BATTLE: {
+		ARMOUR: 0.1,
+	},
+},
+OCCURENCE: 0.05,
+DISABLES_OTHER: [
+],

@@ -1,0 +1,13 @@
+BONUS: {
+	PHYSICS: {
+	},
+	RATES: {
+	},
+	BATTLE: {
+		OFFENSE_SKILL: -0.5,
+		DEFENSE_SKILL: 0.2,
+	},
+},
+OCCURENCE: 0.1,
+DISABLES_OTHER: [
+],

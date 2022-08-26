@@ -1,0 +1,12 @@
+BONUS: {
+	PHYSICS: {
+		IMMUNE_DEFENCE: -0.25,
+	},
+	RATES: {
+	},
+	BATTLE: {
+	},
+},
+OCCURENCE: 0.1,
+DISABLES_OTHER: [
+],

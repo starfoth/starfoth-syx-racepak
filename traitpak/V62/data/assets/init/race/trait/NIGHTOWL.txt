@@ -1,0 +1,14 @@
+BONUS: {
+	PHYSICS: {
+		RESISTANCE_COLD: 0.4,
+		RESISTANCE_HOT: -0.1,
+	},
+	RATES: {
+		SLEEP: -0.1
+	},
+	BATTLE: {
+	},
+},
+OCCURENCE: 0.2,
+DISABLES_OTHER: [
+],

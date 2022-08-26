@@ -1,0 +1,14 @@
+BONUS: {
+	PHYSICS: {
+		IMMUNE_DEFENCE: -0.2,
+		INTELLIGENCE: 0.2,
+	},
+	RATES: {
+		SOIL: 0.5,
+	},
+	BATTLE: {
+	},
+},
+OCCURENCE: 0.05,
+DISABLES_OTHER: [
+],

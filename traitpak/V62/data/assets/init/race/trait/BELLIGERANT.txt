@@ -1,0 +1,12 @@
+BONUS: {
+	PHYSICS: {
+		CRIMINALITY: 0.5,
+	},
+	RATES: {
+	},
+	BATTLE: {
+	},
+},
+OCCURENCE: 0.1,
+DISABLES_OTHER: [
+],

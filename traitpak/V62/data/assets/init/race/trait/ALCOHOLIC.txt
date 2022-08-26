@@ -1,0 +1,16 @@
+BONUS: {
+	PHYSICS: {
+		INTELLIGENCE: -0.1,
+		CRIMINALITY: 0.2,
+		SUBMISSION: 0.2,
+	},
+	RATES: {
+		THIRST: 0.125,
+		MOURNING: -0.25,
+	},
+	BATTLE: {
+	},
+},
+OCCURENCE: 0.1,
+DISABLES_OTHER: [
+],

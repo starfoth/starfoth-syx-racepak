@@ -1,0 +1,13 @@
+BONUS: {
+	PHYSICS: {
+		STAMINA: 0.2,
+	},
+	RATES: {
+		SLEEP: -0.25,
+	},
+	BATTLE: {
+	},
+},
+OCCURENCE: 0.1,
+DISABLES_OTHER: [
+],

@@ -1,0 +1,15 @@
+BONUS: {
+	PHYSICS: {
+		STRENGTH: -0.1,
+	},
+	RATES: {
+	},
+	BATTLE: {
+	},
+},
+OCCURENCE: 0.1,
+DISABLES_OTHER: [
+	CHAMPION,
+	FIGHTER,
+	MUSCULAR,
+],

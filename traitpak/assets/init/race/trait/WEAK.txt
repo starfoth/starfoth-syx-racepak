@@ -1,4 +1,0 @@
-PROPERTIES: {
-	STRENGTH: -0.1,
-},
-OCCURENCE: 0.1,
