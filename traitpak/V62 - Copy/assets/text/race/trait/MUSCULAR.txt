@@ -1,0 +1,2 @@
+NAME: "Muscular",
+DESC: "This is the ideal Syxian body. You may not like it, but this is what peak performance looks like",

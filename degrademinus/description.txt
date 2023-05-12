@@ -11,12 +11,14 @@ Reduces or removes spoilage for non-degradable items.
 -Jewelry (equipped and unequipped + gems)
 -Metal + ore
 -Rations
+-Machinery
 
 [u]REDUCED SPOILAGE[/u]
 -Furniture
 -Wood
 -Clothes
 -Fabric
+-Herbs
 
 [u]UNCHANGED[/u]
 -Wear rate on equipped tools, clothes, and weapons

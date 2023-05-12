@@ -1,0 +1,2 @@
+NAME: "Energetic",
+DESC: "Filled with energy and life, this individual moves faster and sleeps for shorter periods of time!",

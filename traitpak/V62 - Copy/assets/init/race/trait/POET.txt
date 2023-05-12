@@ -1,0 +1,13 @@
+BONUS: {
+	BEHAVIOUR: {
+		SUBMISSION: -1.0,
+	},
+	RATES: {
+		LEARNING: 0.2,
+	},
+},
+OCCURENCE: 0.1,
+DISABLES_OTHER: [
+	DUMB,
+	MORON,
+],

@@ -1,0 +1,2 @@
+NAME: "Austere",
+DESC: "Harmonious and at peace with oneself and the world. Holds great personal discipline.",

@@ -1,0 +1,2 @@
+NAME: "Total Moron",
+DESC: "A complete lack of intelligence, this individual is very simple-minded and struggles to grasp even basic concepts",

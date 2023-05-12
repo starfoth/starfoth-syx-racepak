@@ -1,0 +1,2 @@
+NAME: "Champion",
+DESC: "The true peak of strength and ability, this individual excels in combat far beyond anyone else. Mark them well for these paragons are gods amongst men on the battlefield.",

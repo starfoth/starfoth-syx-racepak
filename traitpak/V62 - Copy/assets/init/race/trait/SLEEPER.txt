@@ -1,0 +1,12 @@
+BONUS: {
+	PHYSICS: {
+	},
+	RATES: {
+		SLEEP: 0.25,
+	},
+},
+OCCURENCE: 0.1,
+DISABLES_OTHER: [
+	CHAMPION,
+	MUSCULAR,
+],

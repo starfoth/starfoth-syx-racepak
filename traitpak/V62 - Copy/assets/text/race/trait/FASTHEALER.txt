@@ -1,0 +1,2 @@
+NAME: "Very Healthy",
+DESC: "Heals very quickly. Robust immune system, and top-notch health. This person is blessed with good genes or a great personal lifestyle",

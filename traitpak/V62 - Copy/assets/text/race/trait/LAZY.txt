@@ -1,0 +1,2 @@
+NAME: "Lazy",
+DESC: "Lazy and unmotivated, this individual with struggle to adapt to new jobs or be productive",

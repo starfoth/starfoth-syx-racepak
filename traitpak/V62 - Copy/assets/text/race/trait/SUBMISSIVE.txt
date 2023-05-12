@@ -1,0 +1,2 @@
+NAME: "Submissive",
+DESC: "This individual is very submissive and will comply with anything the authority tells them to do",

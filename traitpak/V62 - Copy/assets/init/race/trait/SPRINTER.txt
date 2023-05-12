@@ -1,0 +1,15 @@
+BONUS: {
+	PHYSICS: {
+		SPEED: 0.25,
+		STAMINA: 0.2,
+	},
+	RATES: {
+		SLEEP: -0.25,
+	},
+},
+OCCURENCE: 0.15,
+DISABLES_OTHER: [
+	DEPRESSED,
+	GLUTTON,
+	LAZY,
+],
