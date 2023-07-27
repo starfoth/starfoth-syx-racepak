@@ -1,0 +1,2 @@
+NAME: "Music Lover",
+DESC: "A lover of music and a true audiophile. Will frequent the tavern simply to hear the tunes or play their songs for the rest of the visitors. Finds beauty in the small things in life.",

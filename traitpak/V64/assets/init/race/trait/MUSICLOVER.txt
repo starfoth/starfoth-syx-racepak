@@ -1,0 +1,11 @@
+BONUS: {
+	RATES: {
+		THIRST: 0.075,
+		LEARNING: 0.2,
+	},
+},
+OCCURENCE: 0.1,
+DISABLES_OTHER: [
+	DUMB,
+	MORON,
+],

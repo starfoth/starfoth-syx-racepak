@@ -1,0 +1,9 @@
+BONUS: {
+	RATES: {
+		LEARNING: 0.4,
+	},
+},
+OCCURENCE: 0.05,
+DISABLES_OTHER: [
+	MORON,
+],

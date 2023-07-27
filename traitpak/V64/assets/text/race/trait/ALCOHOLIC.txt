@@ -1,0 +1,2 @@
+NAME: "Alcoholic",
+DESC: "Addicted to, or excessively indulges in alcohol. Drinks a lot more to ease the pain. Or to celebrate a happy life. Or to relax and unwind. Or to prepare for a hard day.",

@@ -1,0 +1,13 @@
+BONUS: {
+	PHYSICS: {
+		MASS: 20,
+		OLD_AT: 0.1,
+	},
+},
+OCCURENCE: 0.15,
+DISABLES_OTHER: [
+	CHAMPION,
+	LAZY,
+	SLEEPER,
+	WEAK,
+],

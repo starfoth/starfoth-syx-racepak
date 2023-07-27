@@ -1,0 +1,2 @@
+NAME: "Insane",
+DESC: "Utterly deranged and a menace to society. Is not likely to live very long with their destructive tendancies and criminality. But yet despite all their wrongdoings it is simply not their fault.",

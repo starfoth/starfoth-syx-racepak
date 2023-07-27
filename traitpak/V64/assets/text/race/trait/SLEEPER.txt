@@ -1,0 +1,2 @@
+NAME: "Insomniac",
+DESC: "Suffering from Insomnia, this individual struggles to get a good night's rest and as such has to go to bed more often and rest longer for the same result",

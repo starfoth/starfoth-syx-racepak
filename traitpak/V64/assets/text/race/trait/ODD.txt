@@ -1,0 +1,2 @@
+NAME: "Strange Fellow",
+DESC: "A very strang fellow. Behaves oddly, struggles to adapt to social situations, and generally does not conform to what one would call 'normal behavior'.",

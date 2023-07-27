@@ -1,0 +1,2 @@
+NAME: "Dumb",
+DESC: "Rather slow and struggles to grasp difficult concepts.",

@@ -1,0 +1,2 @@
+NAME: "Belligerent",
+DESC: "A belligerent and abrasive person. Does not hesitate to cause trouble.",
