@@ -1,14 +1,16 @@
-BONUS: {
+BONUS_ADD: {
 	BEHAVIOUR: {
 		CRIMINALITY: 0.1,
 		SUBMISSION: -1.0,
 	},
-	RATES: {
-		LEARNING: 0.2,
-	},
 	BATTLE: {
 		PIERCE_DAMAGE: 0.2,
 		DEFENSE_SKILL: 0.2,
+	},
+},
+BONUS_MUL: {
+	RATES: {
+		LEARNING: 1.2,
 	},
 },
 OCCURENCE: 0.1,

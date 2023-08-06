@@ -1,9 +1,11 @@
-BONUS: {
+BONUS_ADD: {
 	BEHAVIOUR: {
 		CRIMINALITY: -1.0,
 	},
+},
+BONUS_MUL: {
 	RATES: {
-		THIRST: 0.075,
+		THIRST: 1.5,
 	},
 },
 OCCURENCE: 0.15,

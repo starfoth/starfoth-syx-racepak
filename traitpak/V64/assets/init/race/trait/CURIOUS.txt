@@ -1,9 +1,11 @@
-BONUS: {
+BONUS_ADD: {
 	PHYSICS: {
 		WORK_PROFICIENCY: 0.5,
 	},
+},
+BONUS_MUL: {
 	RATES: {
-		LEARNING: 0.2,
+		LEARNING: 1.2,
 	},
 },
 OCCURENCE: 0.1,

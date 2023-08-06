@@ -1,10 +1,12 @@
-BONUS: {
+BONUS_ADD: {
 	PHYSICS: {
 		IMMUNE_DEFENCE: -0.2,
 	},
+},
+BONUS_MUL: {
 	RATES: {
-		SOIL: 0.5,
-		LEARNING: 0.4,
+		SOIL: 2.0,
+		LEARNING: 1.5,
 	},
 },
 OCCURENCE: 0.05,

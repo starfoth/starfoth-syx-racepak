@@ -1,10 +1,10 @@
-BONUS: {
+BONUS_MUL: {
 	PHYSICS: {
-		SPEED: 0.25,
-		STAMINA: 0.2,
+		SPEED: 1.25,
+		STAMINA: 1.2,
 	},
 	RATES: {
-		SLEEP: -0.25,
+		SLEEP: 0.8,
 	},
 },
 OCCURENCE: 0.15,

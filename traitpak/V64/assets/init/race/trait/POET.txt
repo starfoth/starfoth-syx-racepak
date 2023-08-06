@@ -1,9 +1,11 @@
-BONUS: {
+BONUS_ADD: {
 	BEHAVIOUR: {
 		SUBMISSION: -1.0,
 	},
+},
+BONUS_MUL: {
 	RATES: {
-		LEARNING: 0.2,
+		LEARNING: 1.2,
 	},
 },
 OCCURENCE: 0.1,

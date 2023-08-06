@@ -1,13 +1,17 @@
-BONUS: {
+BONUS_ADD: {
 	PHYSICS: {
 		WORK_PROFICIENCY: 0.25,
-		OLD_AT: -0.05,
+	},
+},
+BONUS_MUL: {
+	PHYSICS: {
+		OLD_AT: 0.95,
 	},
 	RATES: {
-		SLEEP: -0.1,
-		HUNGER: -0.1,
-		DEFECATE: -0.1,
-		THIRST: -0.025,
+		SLEEP: 0.9,
+		HUNGER: 0.9,
+		DEFECATE: 0.9,
+		THIRST: 0.9,
 	},
 },
 OCCURENCE: 0.1,

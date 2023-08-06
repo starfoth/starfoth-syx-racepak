@@ -1,4 +1,4 @@
-BONUS: {
+BONUS_ADD: {
 	PHYSICS: {
 		MASS: 70,
 		RESISTANCE_HOT: 0.8,

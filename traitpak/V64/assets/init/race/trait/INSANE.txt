@@ -1,17 +1,21 @@
-BONUS: {
+BONUS_ADD: {
 	BEHAVIOUR: {
 		CRIMINALITY: 1.0,
 	},
 	PHYSICS: {
 		CANNIBALIZE_TENDENCY: 0.25,
-		DEATH_AGE: -0.5,
-	},
-	RATES: {
-		SOIL: 0.5,
-		LEARNING: -0.9,
 	},
 	BATTLE: {
 		DEFENSE_SKILL: -0.5,
+	},
+},
+BONUS_MUL : {
+	PHYSICS: {
+		DEATH_AGE: 0.5,
+	},
+	RATES: {
+		SOIL: 2.0,
+		LEARNING: 0.3,
 	},
 },
 OCCURENCE: 0.02,

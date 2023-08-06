@@ -1,8 +1,6 @@
-BONUS: {
-	PHYSICS: {
-	},
+BONUS_MUL: {
 	RATES: {
-		SLEEP: 0.25,
+		SLEEP: 1.25,
 	},
 },
 OCCURENCE: 0.1,

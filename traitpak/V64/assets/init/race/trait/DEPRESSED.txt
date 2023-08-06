@@ -1,19 +1,21 @@
-BONUS: {
+BONUS_ADD: {
 	BEHAVIOUR: {
 		SUBMISSION: 1.0,
 	},
+	BATTLE: {
+		DEFENSE_SKILL: -0.2,
+	},
+},
+BONUS_MUL: {
 	PHYSICS: {
-		OLD_AT: -0.1,
-		DEATH_AGE: -0.5,
-		STAMINA: -0.1,
-		SPEED: -0.35,
+		OLD_AT: 0.9,
+		DEATH_AGE: 0.8,
+		STAMINA: 0.9,
+		SPEED: 0.35,
 	},
 	RATES: {
 		MOURNING: 0.5,
-		HUNGER: -0.3,
-	},
-	BATTLE: {
-		DEFENSE_SKILL: -0.2,
+		HUNGER: 1.5,
 	},
 },
 OCCURENCE: 0.05,

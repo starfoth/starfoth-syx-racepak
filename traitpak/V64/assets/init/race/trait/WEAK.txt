@@ -1,4 +1,4 @@
-BONUS: {
+BONUS_ADD: {
 	RATES: {
 		STRENGTH: -0.1,
 	},

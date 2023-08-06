@@ -1,8 +1,8 @@
-BONUS: {
+BONUS_MUL: {
 	RATES: {
-		THIRST: -0.125,
-		SOIL: -0.25,
-		LEARNING: 0.2,
+		THIRST: 0.1,
+		SOIL: 0.75,
+		LEARNING: 1.2,
 	},
 },
 OCCURENCE: 0.05,

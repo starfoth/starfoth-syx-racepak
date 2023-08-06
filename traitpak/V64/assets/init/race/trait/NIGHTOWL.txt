@@ -1,10 +1,12 @@
-BONUS: {
+BONUS_ADD: {
 	PHYSICS: {
 		RESISTANCE_COLD: 0.4,
 		RESISTANCE_HOT: -0.1,
 	},
+},
+BONUS_MUL: {
 	RATES: {
-		SLEEP: -0.1,
+		SLEEP: 0.8,
 	},
 },
 OCCURENCE: 0.2,

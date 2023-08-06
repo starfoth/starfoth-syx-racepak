@@ -1,4 +1,4 @@
-BONUS: {
+BONUS_ADD: {
 	BATTLE: {
 		ARMOUR: 0.1,
 	},

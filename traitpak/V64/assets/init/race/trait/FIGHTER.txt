@@ -1,4 +1,4 @@
-BONUS: {
+BONUS_ADD: {
 	PHYSICS: {
 		MASS: 10,
 	},

@@ -1,13 +1,15 @@
-BONUS: {
+BONUS_ADD: {
 	PHYSICS: {
 		RESISTANCE_COLD: 0.2,
 		MASS: 20,
 	},
-	RATES: {
-		HUNGER: 0.2,
-	},
 	BATTLE: {
 		ARMOUR: 0.1,
+	},
+},
+BONUS_MUL: {
+	RATES: {
+		HUNGER: 1.2,
 	},
 },
 OCCURENCE: 0.15,

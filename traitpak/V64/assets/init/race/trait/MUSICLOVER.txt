@@ -1,7 +1,7 @@
-BONUS: {
+BONUS_MUL: {
 	RATES: {
-		THIRST: 0.075,
-		LEARNING: 0.2,
+		THIRST: 1.5,
+		LEARNING: 1.2,
 	},
 },
 OCCURENCE: 0.1,

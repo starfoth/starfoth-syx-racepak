@@ -1,10 +1,12 @@
-BONUS: {
-	RATES: {
-		HUNGER: -0.25,
-		THIRST: -0.1,
-	},
+BONUS_ADD: {
 	BATTLE: {
 		DEFENSE_SKILL: 0.2,
+	},
+},
+BONUS_MUL: {
+	RATES: {
+		HUNGER: 0.75,
+		THIRST: 0.1,
 	},
 },
 OCCURENCE: 0.1,

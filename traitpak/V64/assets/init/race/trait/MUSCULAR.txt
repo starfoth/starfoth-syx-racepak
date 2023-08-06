@@ -1,7 +1,11 @@
-BONUS: {
+BONUS_ADD: {
 	PHYSICS: {
 		MASS: 20,
-		OLD_AT: 0.1,
+	},
+},
+BONUS_MUL: {
+	PHYSICS: {
+		OLD_AT: 1.1,
 	},
 },
 OCCURENCE: 0.15,

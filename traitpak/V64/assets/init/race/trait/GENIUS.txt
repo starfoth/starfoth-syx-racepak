@@ -1,6 +1,6 @@
-BONUS: {
+BONUS_MUL: {
 	RATES: {
-		LEARNING: 0.8,
+		LEARNING: 3,
 	},
 },
 OCCURENCE: 0.05,
