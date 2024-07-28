@@ -1,0 +1,3 @@
+NAME: "Cunning",
+TITLE: "The Cunning",
+DESC: "A very cunning and ruthless individual. Skilled in deception, resourcefulness, and trickery. Be wary",

@@ -1,0 +1,3 @@
+NAME: "Lover of Poetry",
+TITLE: "The Poet",
+DESC: "A lover of poetry, theatre, and divine epic romanticism. A free spirit bursting with creativity and deviancy!",

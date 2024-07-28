@@ -1,0 +1,3 @@
+NAME: "Total Moron",
+TITLE: "The Total Buffoon",
+DESC: "A complete lack of intelligence, this individual is very simple-minded and struggles to grasp even basic concepts",

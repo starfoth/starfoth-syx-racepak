@@ -1,0 +1,3 @@
+NAME: "Strange Fellow",
+TITLE: "The Odd",
+DESC: "A very strange fellow. Behaves oddly, struggles to adapt to social situations, and generally does not conform to what one would call 'normal behavior'.",

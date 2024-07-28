@@ -1,0 +1,3 @@
+NAME: "Confident",
+TITLE: "The Bold",
+DESC: "A very confident individual who believes in themselves and their ability to carry out whatever task they desire. They are not necessarily ambitious but are strongly driven when they want something.",

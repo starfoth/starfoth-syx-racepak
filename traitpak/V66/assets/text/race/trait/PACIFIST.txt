@@ -1,0 +1,3 @@
+NAME: "Pacifist",
+TITLE: "The Peaceful",
+DESC: "Completely unwilling to fight or harm another, this individual is staunchly pacifistic",

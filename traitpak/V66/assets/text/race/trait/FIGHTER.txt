@@ -1,0 +1,3 @@
+NAME: "Fighter",
+TITLE: "The Warrior",
+DESC: "A proficient and skilled fighter. Markably above the average individual in combat.",

@@ -1,0 +1,3 @@
+NAME: "Hypochondriac",
+TITLE: "The Frail",
+DESC: "Chronically ill and holds a weak immune system. Will likely die of a simple flu.",

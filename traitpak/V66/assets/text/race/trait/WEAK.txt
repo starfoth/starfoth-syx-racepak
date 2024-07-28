@@ -1,0 +1,3 @@
+NAME: "Weak",
+TITLE: "The Feeble",
+DESC: "This individual has a very weak structure and will struggle to perform heavy jobs as a result",

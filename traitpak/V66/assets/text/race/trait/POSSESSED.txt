@@ -1,0 +1,3 @@
+NAME: "Possessed",
+TITLE: "The Demonic",
+DESC: "The one who once owned this body suffered a conscious death a long time ago. All that exists in their place now is a living puppet. A hollow, soulless shell which will carry out its master's bidding. Whether it be to murder their enemies, create a distraction for your guards, assassinate your nobles, or just create a nuisence for their sadistic entertainment. Just know that the end of this living dead puppet's story will end in bloodshed.",

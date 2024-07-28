@@ -1,0 +1,3 @@
+NAME: "Lazy",
+TITLE: "The Sloth",
+DESC: "Lazy and unmotivated, this individual with struggle to adapt to new jobs or be productive",

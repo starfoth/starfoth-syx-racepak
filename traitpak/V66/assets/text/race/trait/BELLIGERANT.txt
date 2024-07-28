@@ -1,0 +1,3 @@
+NAME: "Belligerent",
+TITLE: "The Wrothful",
+DESC: "A belligerent and abrasive person. Does not hesitate to cause trouble.",

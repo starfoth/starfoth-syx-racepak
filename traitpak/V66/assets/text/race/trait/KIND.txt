@@ -1,0 +1,3 @@
+NAME: "Kind",
+TITLE: "The Kind",
+DESC: "A kind-hearted soul who cares deeply for other people. Very social and loving and brightens everyone's day simply by being around them with their bubbly words and bright personality. The world would be a perfect place if there were only people like this individual.",

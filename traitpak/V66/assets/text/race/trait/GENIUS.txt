@@ -1,0 +1,3 @@
+NAME: "Genius",
+TITLE: "The Grand",
+DESC: "A rare genius with astounding intellect and personal ability. Learns incredibly quickly and is well above their peers.",

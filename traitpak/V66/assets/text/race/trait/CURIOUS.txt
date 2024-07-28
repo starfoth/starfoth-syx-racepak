@@ -1,0 +1,3 @@
+NAME: "Curious",
+TITLE: "The Explorator",
+DESC: "Curious about the world and its working. A seeker of answers and a custodian of questions alike. Individuals like this are often the source of subtle ultimte progress in the world.",

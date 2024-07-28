@@ -1,0 +1,3 @@
+NAME: "Depressed",
+TITLE: "The Soft-Spoken",
+DESC: "Suffering from crippling depression. Harrowed by the nightmare that is their waking life and does not take proper care of themselves. Mourns daily.",

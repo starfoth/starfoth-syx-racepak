@@ -1,0 +1,3 @@
+NAME: "Dumb",
+TITLE: "The Inarticulate",
+DESC: "Rather slow and struggles to grasp difficult concepts.",

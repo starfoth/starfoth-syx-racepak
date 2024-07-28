@@ -1,0 +1,3 @@
+NAME: "Glutton",
+TITLE: "The Greasus",
+DESC: "Fatass lol",

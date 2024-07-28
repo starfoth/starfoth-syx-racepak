@@ -1,6 +1,6 @@
 VERSION: "1.1",
-GAME_VERSION_MAJOR: 64,
-GAME_VERSION_MINOR: 40,
+GAME_VERSION_MAJOR: 66,
+GAME_VERSION_MINOR: 49,
 NAME: "TraitPak",
 DESC: "Adds numerous traits to add individuality and personality to various individuals and makes choosing the right nobles slightly more meaningful. Adds personality, aptitude, and general traits",
 AUTHOR: "Starfoth",

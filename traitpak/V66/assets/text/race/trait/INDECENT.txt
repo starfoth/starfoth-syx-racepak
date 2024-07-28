@@ -1,0 +1,3 @@
+NAME: "Indecent/Uncouth",
+TITLE: "The Outgoing",
+DESC: "An indecent and deviant individual. Prone to sexual and social deviancies. Does not lack social awareness, simply does not care and will do whatever they desire as long as it holds no consequence.",

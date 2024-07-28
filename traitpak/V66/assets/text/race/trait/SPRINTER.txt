@@ -1,0 +1,3 @@
+NAME: "Energetic",
+TITLE: "The Quick",
+DESC: "Filled with energy and life, this individual moves faster and sleeps for shorter periods of time!",

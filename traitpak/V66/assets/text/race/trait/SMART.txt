@@ -1,0 +1,3 @@
+NAME: "Smart",
+TITLE: "The Bright",
+DESC: "Ahead of the curve, this individual is more intelligent than most and picks up on concepts faster",
